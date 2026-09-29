@@ -1,0 +1,381 @@
+Wk,Day,Date,Time,Home,xG_x,xG_y,Away,Attendance,Venue,Referee,game_id,Score_x,Score_y,Fouls_x,Corners_x,Crosses_x,Touches_x,Tackles_x,Interceptions_x,Aerials Won_x,Clearances_x,Offsides_x,Goal Kicks_x,Throw Ins_x,Long Balls_x,Fouls_y,Corners_y,Crosses_y,Touches_y,Tackles_y,Interceptions_y,Aerials Won_y,Clearances_y,Offsides_y,Goal Kicks_y,Throw Ins_y,Long Balls_y
+1.0,Fri,2022-08-05,20:00,Crystal Palace,1.2,1.0,Arsenal,25286.0,Selhurst Park,Anthony Taylor,0,0,2,16,3,19,726,18,8,10,18,1,4,25,83,11,5,11,599,29,9,14,24,2,2,14,59
+1.0,Sat,2022-08-06,12:30,Fulham,1.2,1.2,Liverpool,22207.0,Craven Cottage,Andy Madley,1,2,2,7,4,19,474,24,10,23,31,4,8,22,77,9,4,18,784,11,10,13,16,4,5,35,94
+1.0,Sat,2022-08-06,15:00,Tottenham,1.5,0.5,Southampton,61732.0,Tottenham Hotspur Stadium,Andre Marriner,2,4,1,11,10,24,709,24,3,13,20,2,5,20,85,6,2,18,554,14,13,11,21,0,4,14,61
+1.0,Sat,2022-08-06,15:00,Newcastle Utd,1.7,0.3,Nott'ham Forest,52245.0,St James' Park,Simon Hooper,3,2,0,9,11,25,634,19,11,12,14,2,2,21,64,14,1,9,475,15,10,16,37,0,12,26,70
+1.0,Sat,2022-08-06,15:00,Leeds United,0.8,1.3,Wolves,36347.0,Elland Road,Robert Jones,4,2,1,13,6,20,515,21,14,9,23,0,9,16,60,9,4,20,720,16,14,7,17,1,9,23,72
+1.0,Sat,2022-08-06,15:00,Bournemouth,0.6,0.7,Aston Villa,11013.0,Vitality Stadium,Peter Bankes,5,2,0,18,5,11,462,20,13,16,40,1,12,14,68,16,5,31,721,10,8,16,9,4,3,19,70
+1.0,Sat,2022-08-06,17:30,Everton,0.7,1.5,Chelsea,39254.0,Goodison Park,Craig Pawson,6,0,1,14,4,15,495,24,8,12,26,0,5,22,71,11,16,25,730,19,9,22,16,2,7,17,46
+1.0,Sun,2022-08-07,14:00,Leicester City,0.6,0.8,Brentford,31794.0,King Power Stadium,Jarred Gillett,7,2,2,6,5,10,725,13,10,14,13,2,3,20,42,5,6,16,580,10,8,15,16,2,7,12,70
+1.0,Sun,2022-08-07,14:00,Manchester Utd,1.4,1.5,Brighton,73711.0,Old Trafford,Paul Tierney,8,1,2,7,6,24,708,12,15,11,11,3,3,22,74,12,2,12,483,14,12,9,24,1,11,22,78
+1.0,Sun,2022-08-07,16:30,West Ham,0.5,2.2,Manchester City,62443.0,London Stadium,Michael Oliver,9,0,2,8,1,12,377,14,11,10,16,4,9,11,66,4,4,18,936,6,3,11,11,1,5,12,64
+2.0,Sat,2022-08-13,12:30,Aston Villa,2.3,1.6,Everton,41883.0,Villa Park,Michael Oliver,10,2,1,9,5,14,669,15,14,14,16,2,1,20,55,7,8,13,529,16,8,12,18,3,6,18,77
+2.0,Sat,2022-08-13,15:00,Manchester City,1.7,0.1,Bournemouth,53453.0,Etihad Stadium,David Coote,11,4,0,9,11,27,814,8,5,9,4,2,1,11,54,9,1,6,442,10,6,8,21,1,15,9,58
+2.0,Sat,2022-08-13,15:00,Southampton,1.2,1.8,Leeds United,30815.0,St. Mary's Stadium,Tony Harrington,12,2,2,10,2,15,496,17,14,17,17,1,6,25,72,12,5,11,623,27,10,23,21,1,9,28,72
+2.0,Sat,2022-08-13,15:00,Wolves,0.9,1.5,Fulham,31178.0,Molineux Stadium,John Brooks,13,0,0,7,5,19,659,18,8,14,17,1,6,22,76,14,3,22,495,19,9,13,24,0,7,24,60
+2.0,Sat,2022-08-13,15:00,Arsenal,2.7,0.5,Leicester City,60033.0,Emirates Stadium,Darren England,14,4,2,15,6,17,590,8,8,19,12,2,3,15,50,9,2,9,586,12,8,14,19,3,12,16,66
+2.0,Sat,2022-08-13,15:00,Brighton,1.5,0.2,Newcastle Utd,31552.0,The American Express Community Stadium,Graham Scott,15,0,0,8,7,19,521,18,8,18,19,1,4,23,71,6,3,10,475,12,14,16,34,4,9,22,74
+2.0,Sat,2022-08-13,17:30,Brentford,1.6,0.9,Manchester Utd,17051.0,Brentford Community Stadium,Stuart Attwell,16,4,0,6,8,17,384,6,8,10,16,1,12,16,66,15,2,21,673,12,12,14,23,2,3,23,57
+2.0,Sun,2022-08-14,14:00,Nott'ham Forest,1.3,2.1,West Ham,29281.0,The City Ground,Robert Jones,17,1,0,10,6,20,464,16,5,18,31,3,10,17,70,11,7,26,545,16,7,20,22,2,3,26,80
+2.0,Sun,2022-08-14,16:30,Chelsea,1.6,1.0,Tottenham,39946.0,Stamford Bridge,Anthony Taylor,18,2,2,9,8,23,760,28,4,14,8,2,5,26,58,9,5,12,520,25,15,16,34,1,11,19,44
+2.0,Mon,2022-08-15,20:00,Liverpool,2.0,1.0,Crystal Palace,52970.0,Anfield,Paul Tierney,19,1,1,7,4,29,911,20,13,9,9,3,5,27,98,8,2,9,450,23,18,16,37,2,16,17,69
+3.0,Sat,2022-08-20,12:30,Tottenham,1.7,0.7,Wolves,61298.0,Tottenham Hotspur Stadium,Simon Hooper,20,1,0,10,8,22,632,18,4,5,17,2,8,14,67,8,6,19,626,18,6,9,19,0,10,15,78
+3.0,Sat,2022-08-20,15:00,Leicester City,0.3,0.9,Southampton,30850.0,King Power Stadium,Michael Salisbury,21,1,2,11,2,14,718,15,6,17,23,0,5,33,68,15,5,18,491,19,10,20,21,1,6,20,82
+3.0,Sat,2022-08-20,15:00,Everton,1.5,1.0,Nott'ham Forest,39271.0,Goodison Park,Andre Marriner,22,1,1,6,6,18,576,13,11,10,16,4,9,22,84,9,2,15,589,22,2,15,21,1,12,19,79
+3.0,Sat,2022-08-20,15:00,Crystal Palace,2.6,0.9,Aston Villa,22012.0,Selhurst Park,Andy Madley,23,3,1,16,4,10,588,14,3,9,13,1,6,24,59,14,2,17,576,26,7,13,9,1,11,17,77
+3.0,Sat,2022-08-20,15:00,Fulham,2.4,1.8,Brentford,21798.0,Craven Cottage,Peter Bankes,24,3,2,13,6,21,468,12,11,20,21,5,8,21,73,7,3,11,561,12,6,23,9,7,6,30,96
+3.0,Sat,2022-08-20,17:30,Bournemouth,0.3,1.3,Arsenal,10423.0,Vitality Stadium,Craig Pawson,25,0,3,12,3,13,546,22,7,12,13,1,7,27,51,10,4,16,738,14,10,14,20,3,4,13,48
+3.0,Sun,2022-08-21,14:00,Leeds United,2.1,0.9,Chelsea,36372.0,Elland Road,Stuart Attwell,26,3,0,16,4,12,477,26,16,9,17,1,6,19,51,15,6,20,672,22,17,21,13,7,7,29,80
+3.0,Sun,2022-08-21,14:00,West Ham,0.8,1.7,Brighton,62449.0,London Stadium,Anthony Taylor,27,0,2,10,5,25,607,8,13,20,13,3,7,23,80,7,4,16,628,17,6,9,19,1,4,15,69
+3.0,Sun,2022-08-21,16:30,Newcastle Utd,1.8,2.1,Manchester City,52258.0,St James' Park,Jarred Gillett,28,3,3,14,5,12,415,13,13,12,22,2,4,9,66,7,5,20,756,9,5,15,13,1,4,18,67
+3.0,Mon,2022-08-22,20:00,Manchester Utd,1.8,1.3,Liverpool,74147.0,Old Trafford,Michael Oliver,29,2,1,11,6,7,443,24,12,14,34,2,16,15,66,7,8,23,795,13,6,20,8,2,4,28,78
+4.0,Sat,2022-08-27,12:30,Southampton,1.4,1.1,Manchester Utd,31196.0,St. Mary's Stadium,Andy Madley,30,0,1,4,5,27,544,17,13,19,12,1,4,29,79,14,3,12,568,14,10,26,39,1,13,20,73
+4.0,Sat,2022-08-27,15:00,Manchester City,2.2,0.1,Crystal Palace,53112.0,Etihad Stadium,Darren England,31,4,2,14,6,29,894,12,5,14,3,2,2,18,56,8,1,5,382,9,5,7,26,1,11,12,68
+4.0,Sat,2022-08-27,15:00,Brighton,2.0,1.8,Leeds United,30953.0,The American Express Community Stadium,Michael Salisbury,32,1,0,10,5,12,506,14,9,14,7,2,7,27,83,14,3,12,619,22,16,10,14,1,11,21,70
+4.0,Sat,2022-08-27,15:00,Chelsea,1.8,2.5,Leicester City,39953.0,Stamford Bridge,Paul Tierney,33,2,1,10,3,12,595,18,6,17,28,3,11,18,64,7,11,34,689,17,7,17,16,1,2,17,50
+4.0,Sat,2022-08-27,15:00,Brentford,2.1,1.1,Everton,17009.0,Brentford Community Stadium,John Brooks,34,1,1,8,8,30,676,14,8,21,13,0,7,25,65,8,5,13,557,22,10,17,35,2,12,12,78
+4.0,Sat,2022-08-27,15:00,Liverpool,3.3,0.3,Bournemouth,53328.0,Anfield,Stuart Attwell,35,9,0,6,8,20,821,12,9,18,3,3,3,19,77,5,1,5,429,20,11,14,18,0,11,20,67
+4.0,Sat,2022-08-27,17:30,Arsenal,2.6,0.8,Fulham,60164.0,Emirates Stadium,Jarred Gillett,36,2,1,6,9,19,745,15,7,11,5,1,8,17,73,12,2,11,388,24,14,22,29,0,10,18,55
+4.0,Sun,2022-08-28,14:00,Wolves,0.7,1.7,Newcastle Utd,31311.0,Molineux Stadium,Peter Bankes,37,1,1,10,4,14,431,22,4,11,37,3,2,15,64,11,13,34,632,15,6,16,14,1,3,12,72
+4.0,Sun,2022-08-28,14:00,Aston Villa,0.5,0.6,West Ham,41796.0,Villa Park,David Coote,38,0,1,10,3,26,741,17,13,13,17,2,5,25,68,10,2,19,573,13,16,9,30,1,9,23,63
+4.0,Sun,2022-08-28,16:30,Nott'ham Forest,0.9,2.4,Tottenham,29296.0,The City Ground,Craig Pawson,39,0,2,11,6,24,729,21,13,15,7,1,9,17,70,13,1,10,613,12,18,15,26,3,10,19,64
+5.0,Tue,2022-08-30,19:30,Fulham,0.7,1.4,Brighton,22224.0,Craven Cottage,Thomas Bramall,40,2,1,9,3,8,506,26,6,18,24,0,8,23,49,11,3,17,697,23,11,13,11,2,11,26,78
+5.0,Tue,2022-08-30,19:30,Crystal Palace,1.0,1.4,Brentford,25043.0,Selhurst Park,Simon Hooper,41,1,1,11,4,10,634,21,9,14,26,1,8,18,80,8,6,22,628,14,14,12,6,0,6,20,80
+5.0,Tue,2022-08-30,19:45,Southampton,1.1,1.1,Chelsea,31542.0,St. Mary's Stadium,Michael Oliver,42,2,1,15,5,15,447,19,13,13,28,0,4,28,78,10,3,17,770,26,20,16,28,3,1,31,65
+5.0,Tue,2022-08-30,20:00,Leeds United,1.0,1.0,Everton,36338.0,Elland Road,Darren England,43,1,1,10,10,31,852,25,11,24,11,2,2,38,56,9,2,3,492,28,18,12,39,2,11,22,60
+5.0,Wed,2022-08-31,19:30,Bournemouth,0.4,1.5,Wolves,10113.0,Vitality Stadium,Anthony Taylor,44,0,0,12,2,7,475,24,8,12,25,0,12,21,57,12,5,27,758,26,6,14,13,3,1,16,75
+5.0,Wed,2022-08-31,19:30,Manchester City,3.3,0.7,Nott'ham Forest,53409.0,Etihad Stadium,Paul Tierney,45,6,0,9,10,27,902,13,5,17,6,2,4,16,67,7,1,7,378,14,14,8,27,2,9,12,55
+5.0,Wed,2022-08-31,19:30,Arsenal,2.4,0.4,Aston Villa,60012.0,Emirates Stadium,Robert Jones,46,2,1,10,10,20,665,10,8,10,13,1,5,15,65,14,2,16,494,16,11,10,24,1,13,13,62
+5.0,Wed,2022-08-31,19:45,West Ham,1.2,0.6,Tottenham,62450.0,London Stadium,Peter Bankes,47,1,1,10,3,23,512,13,7,17,22,1,4,16,58,10,4,18,759,7,6,9,19,0,11,19,60
+5.0,Wed,2022-08-31,20:00,Liverpool,1.5,0.7,Newcastle Utd,53316.0,Anfield,Andre Marriner,48,2,1,9,13,41,786,7,6,15,4,2,6,24,108,10,0,7,415,23,15,21,44,2,9,11,66
+5.0,Thu,2022-09-01,20:00,Leicester City,0.7,1.5,Manchester Utd,32226.0,King Power Stadium,Craig Pawson,49,0,1,7,1,13,747,21,17,18,18,0,4,18,64,15,3,12,648,15,8,16,10,2,8,24,82
+6.0,Sat,2022-09-03,12:30,Everton,1.7,2.1,Liverpool,39240.0,Goodison Park,Anthony Taylor,50,0,0,7,7,15,469,19,10,9,33,3,11,23,73,11,9,29,650,15,12,14,15,2,8,34,88
+6.0,Sat,2022-09-03,15:00,Nott'ham Forest,1.9,0.8,Bournemouth,28720.0,The City Ground,Michael Oliver,51,2,3,13,4,27,641,13,9,12,18,1,6,20,85,10,6,20,604,12,3,12,29,1,5,29,65
+6.0,Sat,2022-09-03,15:00,Wolves,0.8,1.2,Southampton,30546.0,Molineux Stadium,John Brooks,52,1,0,10,5,16,599,14,12,13,27,1,11,16,75,14,6,27,558,20,10,10,19,0,7,16,69
+6.0,Sat,2022-09-03,15:00,Newcastle Utd,2.8,1.0,Crystal Palace,51863.0,St James' Park,Michael Salisbury,53,0,0,19,13,35,556,18,15,14,16,2,4,17,67,12,5,12,564,23,13,14,36,1,11,18,61
+6.0,Sat,2022-09-03,15:00,Brentford,2.3,1.7,Leeds United,17092.0,Brentford Community Stadium,Robert Jones,54,5,2,8,2,8,390,24,14,17,22,1,9,20,58,9,6,19,652,24,3,11,12,1,8,25,53
+6.0,Sat,2022-09-03,15:00,Tottenham,2.9,0.7,Fulham,61641.0,Tottenham Hotspur Stadium,Stuart Attwell,55,2,1,9,10,21,635,19,8,17,18,3,7,18,52,6,3,21,590,18,7,11,24,0,4,26,61
+6.0,Sat,2022-09-03,15:00,Chelsea,0.9,1.1,West Ham,39923.0,Stamford Bridge,Andy Madley,56,2,1,6,10,23,802,16,3,15,11,1,2,17,49,11,3,12,455,14,16,15,28,1,12,21,62
+6.0,Sat,2022-09-03,17:30,Aston Villa,0.3,2.1,Manchester City,41830.0,Villa Park,Simon Hooper,57,1,1,7,1,7,406,15,4,13,15,5,10,18,72,6,4,14,872,13,5,26,7,3,3,19,72
+6.0,Sun,2022-09-04,14:00,Brighton,2.6,1.4,Leicester City,31185.0,The American Express Community Stadium,Tony Harrington,58,5,2,6,10,25,650,17,13,10,6,2,5,15,83,8,1,7,582,13,12,11,28,3,10,19,53
+6.0,Sun,2022-09-04,16:30,Manchester Utd,1.5,1.3,Arsenal,73431.0,Old Trafford,Paul Tierney,59,3,1,13,2,6,452,17,7,10,25,4,11,17,56,9,5,16,601,14,6,3,6,0,3,20,63
+8.0,Fri,2022-09-16,20:00,Aston Villa,1.5,0.3,Southampton,40758.0,Villa Park,Tony Harrington,60,1,0,13,6,20,607,35,6,29,22,1,8,28,73,13,3,15,594,28,12,20,26,0,7,25,66
+8.0,Fri,2022-09-16,20:00,Nott'ham Forest,1.4,0.9,Fulham,28654.0,The City Ground,Jarred Gillett,61,2,3,11,2,14,522,10,8,18,25,2,6,19,69,10,10,22,700,12,6,15,15,1,4,14,71
+8.0,Sat,2022-09-17,12:30,Wolves,0.4,1.1,Manchester City,31578.0,Molineux Stadium,Anthony Taylor,62,0,3,7,5,10,558,19,7,3,11,0,7,17,63,9,7,12,761,19,15,11,12,1,6,16,41
+8.0,Sat,2022-09-17,15:00,Newcastle Utd,1.9,0.7,Bournemouth,52238.0,St James' Park,Craig Pawson,63,1,1,10,8,33,809,16,1,13,9,3,5,27,60,11,1,5,409,18,8,11,35,1,11,15,52
+8.0,Sat,2022-09-17,17:30,Tottenham,2.2,1.8,Leicester City,61450.0,Tottenham Hotspur Stadium,Simon Hooper,64,6,2,9,6,16,622,14,14,12,9,1,8,19,70,9,1,11,765,16,8,9,13,0,2,10,59
+8.0,Sun,2022-09-18,12:00,Brentford,0.5,1.5,Arsenal,17122.0,Brentford Community Stadium,David Coote,65,0,3,10,3,18,463,21,12,21,17,3,4,19,70,10,3,9,722,12,6,8,21,1,6,18,56
+8.0,Sun,2022-09-18,14:15,Everton,0.4,1.0,West Ham,39298.0,Goodison Park,Michael Oliver,66,1,0,8,5,22,639,18,10,10,31,1,8,20,78,11,14,33,546,18,14,11,16,1,9,24,68
+9.0,Sat,2022-10-01,12:30,Arsenal,2.4,1.6,Tottenham,60278.0,Emirates Stadium,Anthony Taylor,67,3,1,10,5,25,715,14,6,9,16,1,2,18,50,10,2,11,433,16,5,7,27,3,12,17,71
+9.0,Sat,2022-10-01,15:00,Southampton,1.7,2.0,Everton,30510.0,St. Mary's Stadium,Andre Marriner,68,1,2,11,7,27,638,22,8,13,18,0,7,30,74,10,6,19,551,23,11,19,26,1,11,15,87
+9.0,Sat,2022-10-01,15:00,Crystal Palace,0.4,1.1,Chelsea,25198.0,Selhurst Park,Chris Kavanagh,69,1,2,11,5,11,483,18,7,9,15,1,10,15,55,13,2,9,770,16,9,11,11,0,6,27,61
+9.0,Sat,2022-10-01,15:00,Liverpool,1.5,1.4,Brighton,53320.0,Anfield,Andy Madley,70,3,3,9,9,25,712,14,9,11,18,1,1,26,75,13,2,13,630,23,14,8,27,0,11,16,72
+9.0,Sat,2022-10-01,15:00,Fulham,0.5,3.3,Newcastle Utd,22913.0,Craven Cottage,Darren England,71,1,4,9,1,8,396,13,8,1,16,4,10,17,55,10,8,17,749,15,4,8,15,7,2,13,65
+9.0,Sat,2022-10-01,15:00,Bournemouth,0.4,0.9,Brentford,10126.0,Vitality Stadium,Thomas Bramall,72,0,0,11,7,20,510,14,9,12,22,1,11,10,70,10,8,18,675,20,7,10,19,2,8,19,63
+9.0,Sat,2022-10-01,17:30,West Ham,0.9,0.7,Wolves,62444.0,London Stadium,Paul Tierney,73,2,0,8,1,7,508,22,8,16,30,2,13,11,66,6,6,28,726,12,8,9,6,1,6,22,61
+9.0,Sun,2022-10-02,14:00,Manchester City,3.2,1.7,Manchester Utd,53475.0,Etihad Stadium,Michael Oliver,74,6,3,3,5,10,663,14,11,10,8,1,8,11,57,9,1,4,587,14,7,6,10,0,3,19,52
+9.0,Sun,2022-10-02,16:30,Leeds United,0.4,2.2,Aston Villa,36582.0,Elland Road,Stuart Attwell,75,0,0,23,2,10,510,12,6,16,22,0,8,20,76,12,9,22,622,16,10,22,8,2,4,15,83
+9.0,Mon,2022-10-03,20:00,Leicester City,1.3,1.1,Nott'ham Forest,32202.0,King Power Stadium,Robert Jones,76,4,0,13,6,17,633,11,14,12,17,3,6,13,41,12,6,13,587,13,13,11,16,4,8,18,74
+10.0,Sat,2022-10-08,15:00,Bournemouth,1.1,1.0,Leicester City,10272.0,Vitality Stadium,Michael Salisbury,77,2,1,8,7,22,588,13,10,7,13,3,3,26,58,16,2,10,704,32,6,19,27,0,5,15,40
+10.0,Sat,2022-10-08,15:00,Newcastle Utd,1.5,1.2,Brentford,52067.0,St James' Park,John Brooks,78,5,1,14,9,21,537,15,6,15,22,1,5,18,57,9,5,18,466,10,13,13,17,3,7,14,80
+10.0,Sat,2022-10-08,15:00,Manchester City,2.4,0.2,Southampton,53365.0,Etihad Stadium,Andy Madley,79,4,0,4,9,21,879,15,8,11,6,1,4,12,68,8,1,9,542,19,11,10,21,1,12,10,74
+10.0,Sat,2022-10-08,15:00,Chelsea,1.9,1.1,Wolves,39940.0,Stamford Bridge,Simon Hooper,80,3,0,8,4,16,738,26,8,9,14,3,6,20,49,8,2,16,574,13,5,13,17,0,15,23,56
+10.0,Sat,2022-10-08,17:30,Brighton,0.7,0.8,Tottenham,31498.0,The American Express Community Stadium,Tony Harrington,81,0,1,9,6,17,827,17,10,12,7,2,13,19,50,14,2,7,621,15,11,11,21,3,7,14,57
+10.0,Sun,2022-10-09,14:00,West Ham,2.4,0.7,Fulham,62407.0,London Stadium,Chris Kavanagh,82,3,1,9,4,19,620,12,12,7,11,1,5,16,64,7,2,12,642,14,5,9,20,2,6,18,64
+10.0,Sun,2022-10-09,14:00,Crystal Palace,1.1,1.0,Leeds United,25042.0,Selhurst Park,Paul Tierney,83,2,1,13,5,16,615,18,13,15,19,2,8,29,75,23,3,17,521,29,10,13,12,2,9,32,61
+10.0,Sun,2022-10-09,16:30,Arsenal,2.7,1.1,Liverpool,60059.0,Emirates Stadium,Michael Oliver,84,3,2,11,4,9,542,16,6,13,31,3,4,14,69,11,3,12,640,15,8,10,18,6,3,29,76
+10.0,Sun,2022-10-09,19:00,Everton,0.6,1.4,Manchester Utd,39258.0,Goodison Park,David Coote,85,1,2,7,5,28,527,9,15,13,9,1,9,13,72,13,4,9,744,15,5,17,25,4,7,20,60
+10.0,Mon,2022-10-10,20:00,Nott'ham Forest,0.3,0.7,Aston Villa,29208.0,The City Ground,Anthony Taylor,86,1,1,13,1,12,487,14,7,20,25,0,7,23,64,19,4,20,663,21,9,9,9,3,3,22,70
+11.0,Fri,2022-10-14,20:00,Brentford,1.5,1.9,Brighton,17016.0,Brentford Community Stadium,Michael Salisbury,87,2,0,12,2,10,396,12,12,17,29,0,8,13,67,15,11,33,777,25,7,14,9,3,0,20,68
+11.0,Sat,2022-10-15,12:30,Leicester City,1.0,0.4,Crystal Palace,31298.0,King Power Stadium,Andy Madley,88,0,0,18,9,17,730,25,11,9,12,2,6,25,47,13,2,7,647,13,7,13,23,1,7,14,72
+11.0,Sat,2022-10-15,15:00,Fulham,2.1,1.0,Bournemouth,22541.0,Craven Cottage,Graham Scott,89,2,2,9,5,37,741,12,5,18,9,1,6,20,76,11,6,12,431,14,5,18,49,0,9,15,55
+11.0,Sat,2022-10-15,15:00,Wolves,1.3,1.5,Nott'ham Forest,31554.0,Molineux Stadium,Thomas Bramall,90,1,0,17,4,22,587,17,5,9,22,2,10,19,54,13,5,15,447,16,7,17,22,1,8,19,72
+11.0,Sat,2022-10-15,17:30,Tottenham,2.2,0.4,Everton,61812.0,Tottenham Hotspur Stadium,Paul Tierney,91,2,0,12,7,23,708,8,3,13,6,0,6,21,67,13,1,9,494,15,6,10,25,0,7,9,61
+11.0,Sun,2022-10-16,14:00,Southampton,0.5,1.7,West Ham,29159.0,St. Mary's Stadium,Peter Bankes,92,1,1,7,4,15,505,14,13,23,37,1,13,18,68,3,14,35,673,22,7,23,19,0,2,20,61
+11.0,Sun,2022-10-16,14:00,Aston Villa,1.8,0.9,Chelsea,41754.0,Villa Park,Robert Jones,93,0,2,12,7,30,517,24,8,11,6,3,2,24,61,11,1,6,675,9,8,6,24,1,10,20,53
+11.0,Sun,2022-10-16,14:00,Leeds United,1.8,0.5,Arsenal,36700.0,Elland Road,Chris Kavanagh,94,0,1,10,6,19,578,25,13,13,6,4,5,19,54,11,3,8,662,17,12,10,18,0,8,21,77
+11.0,Sun,2022-10-16,14:00,Manchester Utd,0.8,0.8,Newcastle Utd,73726.0,Old Trafford,Craig Pawson,95,0,0,13,4,20,648,18,10,6,9,2,5,14,69,11,4,11,451,13,13,13,21,0,10,14,62
+11.0,Sun,2022-10-16,16:30,Liverpool,2.1,1.0,Manchester City,53286.0,Anfield,Anthony Taylor,96,1,0,10,5,13,565,23,11,10,29,3,7,14,70,7,6,26,877,20,7,15,15,0,8,19,74
+12.0,Tue,2022-10-18,19:30,Brighton,1.7,0.1,Nott'ham Forest,31463.0,The American Express Community Stadium,Darren England,97,0,0,10,9,27,782,11,7,16,9,1,6,28,76,14,1,7,404,13,9,15,23,0,13,20,52
+12.0,Tue,2022-10-18,20:15,Crystal Palace,1.2,0.8,Wolves,25125.0,Selhurst Park,David Coote,98,2,1,14,4,17,614,23,11,17,16,0,4,23,65,18,2,12,586,29,9,12,19,4,9,16,68
+12.0,Wed,2022-10-19,19:30,Bournemouth,1.0,1.0,Southampton,10405.0,Vitality Stadium,John Brooks,99,0,1,8,7,22,684,13,8,15,12,2,3,24,73,13,3,13,632,23,9,9,24,0,12,19,78
+12.0,Wed,2022-10-19,19:30,Brentford,1.3,0.9,Chelsea,17118.0,Brentford Community Stadium,Jarred Gillett,100,0,0,7,6,19,481,19,10,12,26,2,6,19,74,7,2,15,820,17,6,11,21,0,8,21,71
+12.0,Wed,2022-10-19,19:30,Liverpool,1.7,1.7,West Ham,52982.0,Anfield,Stuart Attwell,101,1,0,9,8,14,749,13,8,11,15,1,6,21,63,8,3,13,647,15,8,7,18,0,9,21,87
+12.0,Wed,2022-10-19,19:30,Newcastle Utd,1.5,0.2,Everton,52247.0,St James' Park,Tony Harrington,102,1,0,9,8,22,544,18,9,10,9,0,2,21,51,12,2,8,558,18,7,6,22,3,12,30,75
+12.0,Wed,2022-10-19,20:15,Manchester Utd,1.5,0.6,Tottenham,73677.0,Old Trafford,Simon Hooper,103,2,0,7,8,12,738,17,7,11,16,4,2,16,75,7,3,19,671,12,17,7,10,0,11,17,62
+12.0,Thu,2022-10-20,19:30,Fulham,2.1,1.2,Aston Villa,23508.0,Craven Cottage,Michael Oliver,104,3,0,11,9,22,627,12,2,17,15,0,4,23,78,11,7,18,456,14,5,15,14,3,9,17,57
+12.0,Thu,2022-10-20,20:15,Leicester City,0.8,1.3,Leeds United,30814.0,King Power Stadium,Peter Bankes,105,2,0,15,2,8,621,26,5,6,20,4,8,17,64,11,9,16,685,30,12,12,13,2,7,29,55
+13.0,Sat,2022-10-22,12:30,Nott'ham Forest,1.9,1.6,Liverpool,29245.0,The City Ground,Paul Tierney,106,1,0,14,2,8,397,19,8,11,40,3,11,13,54,8,11,30,862,14,4,11,7,0,1,30,81
+13.0,Sat,2022-10-22,15:00,Everton,1.4,0.9,Crystal Palace,38939.0,Goodison Park,Simon Hooper,107,3,0,16,3,14,539,26,7,12,19,1,7,28,56,14,4,14,605,20,2,10,16,2,7,23,49
+13.0,Sat,2022-10-22,15:00,Manchester City,1.6,0.5,Brighton,53223.0,Etihad Stadium,Craig Pawson,108,3,1,11,6,11,558,14,8,1,12,0,7,9,54,12,3,16,601,16,9,8,12,4,8,22,60
+13.0,Sat,2022-10-22,17:30,Chelsea,1.1,0.8,Manchester Utd,39503.0,Stamford Bridge,Stuart Attwell,109,1,1,8,6,20,556,10,11,14,18,2,11,20,63,10,4,9,611,18,12,16,17,3,4,25,61
+13.0,Sun,2022-10-23,14:00,Aston Villa,2.8,0.9,Brentford,41693.0,Villa Park,Darren England,110,4,0,14,7,12,492,20,12,15,25,0,8,20,59,11,6,20,562,20,8,21,12,1,3,32,60
+13.0,Sun,2022-10-23,14:00,Wolves,2.1,0.9,Leicester City,31425.0,Molineux Stadium,Michael Oliver,111,0,4,10,9,23,694,11,7,17,7,3,4,18,67,12,2,10,489,23,8,9,22,3,12,20,59
+13.0,Sun,2022-10-23,14:00,Leeds United,1.6,1.8,Fulham,36447.0,Elland Road,Anthony Taylor,112,2,3,12,3,11,660,22,12,14,8,4,4,25,66,8,6,17,525,16,10,17,16,4,9,23,72
+13.0,Sun,2022-10-23,14:00,Southampton,0.7,1.0,Arsenal,31145.0,St. Mary's Stadium,Robert Jones,113,1,1,11,9,20,508,21,3,11,16,4,6,17,57,8,4,12,689,16,7,11,28,3,2,21,59
+13.0,Sun,2022-10-23,16:30,Tottenham,1.6,1.2,Newcastle Utd,61726.0,Tottenham Hotspur Stadium,Jarred Gillett,114,1,2,12,6,19,627,17,7,19,19,3,6,28,68,6,7,18,587,15,7,16,16,4,9,19,90
+13.0,Mon,2022-10-24,20:00,West Ham,1.9,0.4,Bournemouth,62447.0,London Stadium,David Coote,115,2,0,9,5,26,653,22,8,16,9,1,5,26,76,11,0,8,577,21,6,17,25,0,9,19,55
+14.0,Sat,2022-10-29,12:30,Leicester City,0.7,1.0,Manchester City,32223.0,King Power Stadium,Robert Jones,116,0,1,5,3,9,509,12,3,11,20,0,14,11,59,10,10,29,818,7,6,13,6,2,6,13,57
+14.0,Sat,2022-10-29,15:00,Brentford,1.4,0.6,Wolves,17051.0,Brentford Community Stadium,Robert Madley,117,1,1,10,3,19,573,17,5,17,20,0,9,23,69,17,6,17,464,17,8,11,27,1,7,16,57
+14.0,Sat,2022-10-29,15:00,Crystal Palace,0.9,1.3,Southampton,25130.0,Selhurst Park,Michael Salisbury,118,1,0,13,8,15,564,23,4,18,32,5,8,12,68,12,4,24,675,20,6,18,21,3,5,21,67
+14.0,Sat,2022-10-29,15:00,Newcastle Utd,3.4,0.4,Aston Villa,52233.0,St James' Park,Paul Tierney,119,4,0,11,3,13,660,15,6,13,9,2,1,25,70,11,0,8,495,19,11,8,14,3,9,21,62
+14.0,Sat,2022-10-29,15:00,Brighton,2.4,1.4,Chelsea,31746.0,The American Express Community Stadium,Andy Madley,120,4,1,16,8,17,519,18,6,11,24,0,8,14,56,6,7,18,679,8,7,12,17,0,9,23,46
+14.0,Sat,2022-10-29,15:00,Bournemouth,0.5,2.0,Tottenham,10430.0,Vitality Stadium,Anthony Taylor,121,2,3,10,2,9,452,18,7,12,47,0,11,13,54,5,19,53,799,16,6,11,11,3,6,13,55
+14.0,Sat,2022-10-29,17:30,Fulham,1.9,0.9,Everton,23534.0,Craven Cottage,John Brooks,122,0,0,10,13,34,622,12,3,21,9,0,6,24,68,8,4,15,533,15,6,12,37,5,12,20,74
+14.0,Sat,2022-10-29,19:45,Liverpool,1.7,1.8,Leeds United,53274.0,Anfield,Michael Oliver,123,1,2,9,14,37,884,17,9,15,16,0,5,21,98,3,4,17,522,21,10,15,48,0,10,33,68
+14.0,Sun,2022-10-30,14:00,Arsenal,2.3,0.4,Nott'ham Forest,60263.0,Emirates Stadium,Simon Hooper,124,5,0,9,9,23,763,14,7,10,11,1,4,18,45,8,4,11,429,25,5,13,30,2,11,14,63
+14.0,Sun,2022-10-30,16:15,Manchester Utd,1.2,1.1,West Ham,73682.0,Old Trafford,Chris Kavanagh,125,1,0,12,5,18,646,18,7,16,33,1,3,12,57,10,10,29,582,13,8,14,18,2,2,19,70
+15.0,Sat,2022-11-05,15:00,Nott'ham Forest,1.5,1.5,Brentford,28869.0,The City Ground,Andre Marriner,126,2,2,10,3,25,578,18,5,16,20,0,7,30,97,11,3,17,628,12,4,14,34,2,12,23,87
+15.0,Sat,2022-11-05,15:00,Leeds United,2.2,1.5,Bournemouth,36304.0,Elland Road,Tony Harrington,127,4,3,16,13,40,623,26,6,25,14,0,2,23,51,10,3,17,466,15,7,13,38,0,9,21,61
+15.0,Sat,2022-11-05,15:00,Manchester City,2.1,1.0,Fulham,52395.0,Etihad Stadium,Darren England,128,2,1,6,9,25,861,16,5,12,4,3,2,20,58,11,0,6,430,15,5,10,21,0,8,11,48
+15.0,Sat,2022-11-05,15:00,Wolves,1.2,1.5,Brighton,30732.0,Molineux Stadium,Graham Scott,129,2,3,15,4,14,379,18,7,8,20,1,8,9,56,11,9,19,779,14,5,15,13,1,2,16,46
+15.0,Sat,2022-11-05,17:30,Everton,1.2,2.3,Leicester City,39206.0,Goodison Park,David Coote,130,0,2,9,8,26,637,14,11,19,19,0,12,21,83,5,3,14,683,13,11,6,25,1,6,18,62
+15.0,Sun,2022-11-06,12:00,Chelsea,0.3,2.1,Arsenal,40142.0,Stamford Bridge,Michael Oliver,131,0,1,19,4,15,508,24,9,17,18,3,15,17,71,13,6,22,619,17,9,13,23,0,2,16,74
+15.0,Sun,2022-11-06,14:00,West Ham,0.3,1.0,Crystal Palace,62451.0,London Stadium,Paul Tierney,132,1,2,10,2,12,553,16,9,12,15,4,7,13,53,7,5,13,718,13,4,10,11,0,4,17,67
+15.0,Sun,2022-11-06,14:00,Southampton,1.7,0.9,Newcastle Utd,30402.0,St. Mary's Stadium,Stuart Attwell,133,1,4,7,8,26,637,21,13,8,17,4,4,19,83,10,2,9,534,15,4,9,27,1,7,17,80
+15.0,Sun,2022-11-06,14:00,Aston Villa,0.6,0.5,Manchester Utd,42058.0,Villa Park,Anthony Taylor,134,3,1,6,3,7,542,16,15,8,27,0,4,15,58,12,5,23,668,15,9,8,5,3,3,22,75
+15.0,Sun,2022-11-06,16:30,Tottenham,1.2,1.2,Liverpool,62008.0,Tottenham Hotspur Stadium,Andy Madley,135,1,2,10,5,33,695,15,13,14,15,1,6,20,81,8,3,12,781,14,11,12,33,2,10,14,67
+16.0,Sat,2022-11-12,12:30,Manchester City,1.6,1.3,Brentford,52786.0,Etihad Stadium,Peter Bankes,136,1,2,9,10,38,790,9,3,22,12,2,3,16,54,7,2,11,385,11,9,20,47,2,16,7,76
+16.0,Sat,2022-11-12,15:00,Tottenham,1.8,1.1,Leeds United,61667.0,Tottenham Hotspur Stadium,Michael Salisbury,137,4,3,8,9,28,709,12,12,14,9,0,5,28,89,7,2,8,629,19,6,12,28,1,7,20,48
+16.0,Sat,2022-11-12,15:00,Liverpool,1.9,1.1,Southampton,53331.0,Anfield,Simon Hooper,138,3,1,8,6,23,804,12,7,11,14,0,9,21,69,8,0,14,590,16,10,9,18,2,11,17,78
+16.0,Sat,2022-11-12,15:00,Bournemouth,2.4,0.8,Everton,10382.0,Vitality Stadium,Craig Pawson,139,3,0,12,3,9,445,15,1,17,24,1,15,13,50,8,5,21,697,30,7,13,6,1,7,15,74
+16.0,Sat,2022-11-12,15:00,West Ham,1.4,1.8,Leicester City,62459.0,London Stadium,Jarred Gillett,140,0,2,9,7,19,646,18,10,21,10,2,3,29,71,8,2,8,595,19,20,12,25,0,12,25,58
+16.0,Sat,2022-11-12,15:00,Nott'ham Forest,1.1,1.2,Crystal Palace,29045.0,The City Ground,John Brooks,141,1,0,11,1,15,420,21,11,9,26,3,7,21,55,13,5,19,756,11,10,14,15,0,10,23,63
+16.0,Sat,2022-11-12,17:30,Newcastle Utd,1.0,0.3,Chelsea,52264.0,St James' Park,Robert Jones,142,1,0,14,5,21,600,23,10,16,15,3,7,23,55,11,3,17,626,23,13,6,21,0,5,20,69
+16.0,Sat,2022-11-12,19:45,Wolves,0.7,2.1,Arsenal,34624.0,Molineux Stadium,Stuart Attwell,143,0,2,5,6,15,476,17,6,20,24,3,8,18,42,6,4,23,717,10,7,9,10,1,5,12,60
+16.0,Sun,2022-11-13,14:00,Brighton,0.6,1.5,Aston Villa,31581.0,The American Express Community Stadium,Chris Kavanagh,144,1,2,14,11,26,688,14,15,10,7,3,4,27,64,11,4,4,448,23,9,8,34,1,8,20,58
+16.0,Sun,2022-11-13,16:30,Fulham,1.4,2.5,Manchester Utd,24246.0,Craven Cottage,Paul Tierney,145,1,2,9,10,30,624,18,7,11,11,1,5,20,74,10,3,13,606,12,8,17,38,2,0,15,60
+17.0,Mon,2022-12-26,12:30,Brentford,2.0,1.1,Tottenham,17137.0,Brentford Community Stadium,David Coote,146,2,2,11,6,13,496,16,9,13,25,1,3,16,89,10,5,26,700,18,5,27,20,5,5,24,56
+17.0,Mon,2022-12-26,15:00,Southampton,1.9,0.6,Brighton,31010.0,St. Mary's Stadium,Robert Jones,147,1,3,9,4,16,483,16,12,14,17,0,4,23,54,10,2,12,813,21,6,16,12,1,4,21,66
+17.0,Mon,2022-12-26,15:00,Leicester City,0.5,1.9,Newcastle Utd,32185.0,King Power Stadium,Jarred Gillett,148,0,3,9,5,16,757,24,11,11,13,3,7,23,56,6,5,9,547,12,14,19,23,1,5,21,76
+17.0,Mon,2022-12-26,15:00,Crystal Palace,0.4,2.5,Fulham,25176.0,Selhurst Park,Andy Madley,149,0,3,12,1,5,520,15,11,4,37,1,5,11,64,15,7,37,792,16,9,10,3,2,4,19,74
+17.0,Mon,2022-12-26,15:00,Everton,1.7,0.8,Wolves,39252.0,Goodison Park,Craig Pawson,150,1,2,9,2,17,664,17,7,12,17,1,5,20,61,22,2,10,521,19,12,12,20,2,6,28,52
+17.0,Mon,2022-12-26,17:30,Aston Villa,1.4,2.7,Liverpool,42085.0,Villa Park,Paul Tierney,151,1,3,7,0,19,627,12,6,5,15,3,12,14,55,12,6,14,678,19,11,8,24,3,3,15,78
+17.0,Mon,2022-12-26,20:00,Arsenal,2.1,1.0,West Ham,60125.0,Emirates Stadium,Michael Oliver,152,3,1,13,7,25,795,15,4,15,14,3,2,10,55,17,5,12,450,14,7,15,22,0,7,15,62
+17.0,Tue,2022-12-27,17:30,Chelsea,1.8,0.5,Bournemouth,40046.0,Stamford Bridge,Simon Hooper,153,2,0,8,6,16,707,17,6,8,28,3,6,11,58,10,8,21,507,17,9,11,15,0,9,14,49
+17.0,Tue,2022-12-27,20:00,Manchester Utd,2.4,0.7,Nott'ham Forest,73608.0,Old Trafford,Anthony Taylor,154,3,0,13,9,16,795,18,14,7,25,1,5,15,56,4,9,24,481,17,8,6,23,2,7,23,60
+17.0,Wed,2022-12-28,20:00,Leeds United,0.6,4.3,Manchester City,36889.0,Elland Road,Stuart Attwell,155,1,3,11,3,8,450,13,4,5,20,0,9,17,54,14,5,12,830,13,5,7,10,1,6,24,62
+18.0,Fri,2022-12-30,19:45,West Ham,1.3,1.6,Brentford,62467.0,London Stadium,Darren England,156,0,2,9,8,41,734,12,7,17,10,0,6,27,75,5,1,7,501,16,9,14,39,0,16,14,72
+18.0,Fri,2022-12-30,20:00,Liverpool,2.2,1.0,Leicester City,53343.0,Anfield,Craig Pawson,157,2,1,8,4,27,742,18,11,7,10,2,6,19,88,15,5,10,614,14,10,8,22,5,12,14,61
+18.0,Sat,2022-12-31,12:30,Wolves,0.7,2.0,Manchester Utd,31658.0,Molineux Stadium,Robert Jones,158,0,1,11,7,18,556,16,14,7,11,1,6,18,60,11,5,13,650,17,15,10,22,2,0,18,58
+18.0,Sat,2022-12-31,15:00,Newcastle Utd,2.2,0.4,Leeds United,52211.0,St James' Park,Simon Hooper,159,0,0,13,9,23,595,16,10,15,10,3,3,34,86,19,3,6,463,32,10,12,23,0,13,16,74
+18.0,Sat,2022-12-31,15:00,Fulham,1.5,0.8,Southampton,24344.0,Craven Cottage,Graham Scott,160,2,1,8,4,12,757,19,12,13,23,1,6,30,85,13,4,9,519,21,15,19,17,0,7,30,72
+18.0,Sat,2022-12-31,15:00,Manchester City,1.7,0.1,Everton,53444.0,Etihad Stadium,Andy Madley,161,1,1,13,7,32,793,13,3,9,8,3,0,27,50,14,1,10,376,13,11,7,36,2,5,11,50
+18.0,Sat,2022-12-31,15:00,Bournemouth,0.6,1.6,Crystal Palace,9972.0,Vitality Stadium,Andre Marriner,162,0,2,17,2,20,644,17,6,13,16,1,6,41,77,11,7,15,521,30,11,12,25,1,5,29,78
+18.0,Sat,2022-12-31,17:30,Brighton,1.2,2.9,Arsenal,31647.0,The American Express Community Stadium,Anthony Taylor,163,2,4,7,7,24,738,8,9,12,6,5,3,26,56,11,4,6,416,19,9,8,24,0,6,13,62
+18.0,Sun,2023-01-01,14:00,Tottenham,0.7,1.0,Aston Villa,61651.0,Tottenham Hotspur Stadium,John Brooks,164,0,2,15,5,23,715,14,11,10,9,1,4,21,49,10,3,6,557,18,13,7,23,0,7,21,65
+18.0,Sun,2023-01-01,16:30,Nott'ham Forest,1.4,0.9,Chelsea,29229.0,The City Ground,Peter Bankes,165,1,1,16,1,12,401,18,11,6,15,2,4,21,52,14,2,10,829,16,3,7,20,2,5,20,46
+19.0,Mon,2023-01-02,17:30,Brentford,1.7,2.0,Liverpool,17163.0,Brentford Community Stadium,Stuart Attwell,166,3,1,5,4,14,413,17,13,15,37,7,4,14,85,8,9,27,828,9,4,16,16,4,4,28,75
+19.0,Tue,2023-01-03,19:45,Leicester City,1.7,1.7,Fulham,30813.0,King Power Stadium,Darren Bond,167,0,1,12,6,24,718,17,13,13,15,0,9,25,46,11,3,15,529,13,10,10,32,1,9,27,62
+19.0,Tue,2023-01-03,19:45,Everton,1.3,2.2,Brighton,39103.0,Goodison Park,Andre Marriner,168,1,4,8,5,22,632,16,9,4,16,1,8,16,56,10,2,9,642,15,8,13,14,0,7,20,35
+19.0,Tue,2023-01-03,19:45,Arsenal,1.1,1.0,Newcastle Utd,60319.0,Emirates Stadium,Andy Madley,169,0,0,10,5,16,675,13,3,12,22,1,5,13,45,16,5,18,418,23,5,16,27,4,12,11,51
+19.0,Tue,2023-01-03,20:00,Manchester Utd,2.2,0.6,Bournemouth,73322.0,Old Trafford,Michael Salisbury,170,3,0,13,6,18,705,9,10,6,11,0,2,14,61,7,5,16,549,18,12,9,23,2,8,10,50
+19.0,Wed,2023-01-04,19:30,Southampton,0.5,1.4,Nott'ham Forest,30150.0,St. Mary's Stadium,Thomas Bramall,171,0,1,14,6,24,628,14,9,25,18,1,6,29,87,17,2,11,449,22,10,30,33,0,11,15,58
+19.0,Wed,2023-01-04,19:45,Leeds United,1.6,1.4,West Ham,36173.0,Elland Road,David Coote,172,2,2,11,8,22,657,19,13,23,23,3,14,24,59,18,1,16,432,19,13,25,19,3,13,25,67
+19.0,Wed,2023-01-04,20:00,Aston Villa,1.8,0.9,Wolves,39978.0,Villa Park,Jarred Gillett,173,1,1,6,7,32,641,11,6,9,21,1,6,19,71,12,8,23,553,29,6,13,37,4,9,14,70
+19.0,Wed,2023-01-04,20:00,Crystal Palace,0.8,1.4,Tottenham,25132.0,Selhurst Park,Michael Oliver,174,0,4,11,10,20,629,22,8,8,10,1,6,13,73,8,4,14,721,22,9,19,27,2,11,15,67
+19.0,Thu,2023-01-05,20:00,Chelsea,0.4,2.1,Manchester City,39998.0,Stamford Bridge,Paul Tierney,175,0,1,9,3,16,692,28,13,8,14,2,7,16,48,9,2,14,765,19,10,12,15,1,6,17,65
+7.0,Thu,2023-01-12,20:00,Fulham,1.0,2.1,Chelsea,24460.0,Craven Cottage,David Coote,176,2,1,12,5,20,623,11,10,10,23,3,7,33,67,16,7,14,675,18,15,5,21,3,2,13,58
+20.0,Fri,2023-01-13,20:00,Aston Villa,1.2,2.4,Leeds United,42008.0,Villa Park,Michael Oliver,177,2,1,12,0,4,615,28,13,16,31,2,6,27,76,18,11,22,569,27,12,11,7,5,5,38,50
+20.0,Sat,2023-01-14,12:30,Manchester Utd,1.7,0.6,Manchester City,75546.0,Old Trafford,Stuart Attwell,178,2,1,15,1,4,425,15,6,9,29,6,1,14,57,5,2,20,850,6,4,10,5,2,4,13,44
+20.0,Sat,2023-01-14,15:00,Everton,1.4,1.2,Southampton,39305.0,Goodison Park,John Brooks,179,1,2,7,6,24,549,10,10,21,20,3,10,18,97,18,4,10,522,18,5,26,33,2,10,16,79
+20.0,Sat,2023-01-14,15:00,Wolves,0.9,1.1,West Ham,31511.0,Molineux Stadium,Simon Hooper,180,1,0,10,4,14,723,15,4,16,38,4,7,20,64,7,3,31,533,11,11,19,18,1,4,22,76
+20.0,Sat,2023-01-14,15:00,Nott'ham Forest,2.4,1.0,Leicester City,29301.0,The City Ground,Paul Tierney,181,2,0,11,3,19,508,14,9,13,31,2,5,15,65,12,5,26,705,12,5,11,16,1,9,26,60
+20.0,Sat,2023-01-14,15:00,Brighton,1.9,1.0,Liverpool,31645.0,The American Express Community Stadium,Darren England,182,3,0,9,7,16,780,16,7,7,7,4,4,20,42,15,1,4,561,19,16,5,24,2,4,12,43
+20.0,Sat,2023-01-14,17:30,Brentford,1.4,0.6,Bournemouth,17031.0,Brentford Community Stadium,Jarred Gillett,183,2,0,5,5,24,592,20,7,18,22,2,4,25,66,9,3,17,614,19,13,20,36,1,9,21,58
+20.0,Sun,2023-01-15,14:00,Chelsea,1.5,0.7,Crystal Palace,40075.0,Stamford Bridge,Peter Bankes,184,1,0,10,11,28,775,33,7,31,24,3,7,14,56,17,7,26,529,24,8,16,27,1,7,28,73
+20.0,Sun,2023-01-15,14:00,Newcastle Utd,2.2,1.1,Fulham,52247.0,St James' Park,Robert Jones,185,1,0,6,10,23,607,18,8,11,13,2,4,22,60,14,5,13,424,17,9,14,28,3,11,19,61
+20.0,Sun,2023-01-15,16:30,Tottenham,1.6,1.8,Arsenal,61870.0,Tottenham Hotspur Stadium,Craig Pawson,186,0,2,16,4,22,621,17,11,21,21,1,4,28,73,15,3,11,620,13,6,13,30,2,2,19,54
+7.0,Wed,2023-01-18,20:00,Crystal Palace,0.5,2.1,Manchester Utd,23343.0,Selhurst Park,Robert Jones,187,1,1,9,3,17,595,24,21,13,18,0,9,21,70,10,3,15,802,32,12,9,18,0,1,18,60
+7.0,Thu,2023-01-19,20:00,Manchester City,2.3,0.8,Tottenham,53088.0,Etihad Stadium,Simon Hooper,188,4,2,10,8,20,724,15,8,11,13,0,4,22,56,14,3,11,564,16,6,11,29,1,8,16,55
+21.0,Sat,2023-01-21,12:30,Liverpool,1.4,1.6,Chelsea,53126.0,Anfield,Michael Oliver,189,0,0,16,5,24,655,18,15,12,13,5,11,22,70,9,5,15,736,21,18,18,32,1,9,20,54
+21.0,Sat,2023-01-21,15:00,Bournemouth,1.4,1.9,Nott'ham Forest,10248.0,Vitality Stadium,Andy Madley,190,1,1,10,4,12,529,11,9,20,30,2,11,19,70,7,6,29,671,21,11,18,21,2,8,18,68
+21.0,Sat,2023-01-21,15:00,Southampton,0.6,1.4,Aston Villa,30158.0,St. Mary's Stadium,Michael Salisbury,191,0,1,19,2,13,483,25,12,23,23,3,9,16,74,9,2,15,708,19,6,14,9,0,2,21,55
+21.0,Sat,2023-01-21,15:00,Leicester City,0.9,1.7,Brighton,32056.0,King Power Stadium,Thomas Bramall,192,2,2,9,5,10,499,16,9,12,18,0,10,20,39,9,6,19,776,11,14,8,10,2,0,22,48
+21.0,Sat,2023-01-21,15:00,West Ham,2.2,0.5,Everton,62470.0,London Stadium,Stuart Attwell,193,2,0,9,4,18,519,17,13,18,51,1,4,15,49,6,9,36,872,19,7,19,15,2,5,12,76
+21.0,Sat,2023-01-21,17:30,Crystal Palace,0.3,1.2,Newcastle Utd,25350.0,Selhurst Park,Craig Pawson,194,0,0,13,3,14,487,29,16,18,30,0,10,23,81,7,15,26,674,19,9,20,23,1,5,16,77
+21.0,Sun,2023-01-22,14:00,Manchester City,2.8,0.8,Wolves,53282.0,Etihad Stadium,David Coote,195,3,0,10,5,24,719,8,6,14,18,1,3,12,58,10,7,17,611,15,11,9,22,0,11,13,63
+21.0,Sun,2023-01-22,14:00,Leeds United,0.5,0.4,Brentford,36260.0,Elland Road,Peter Bankes,196,0,0,10,2,13,653,17,7,18,16,1,9,25,50,18,3,15,510,14,14,18,25,1,6,23,76
+21.0,Sun,2023-01-22,16:30,Arsenal,3.1,0.4,Manchester Utd,60325.0,Emirates Stadium,Anthony Taylor,197,3,2,8,12,22,677,21,9,11,10,1,0,11,52,9,4,9,569,21,16,16,36,4,1,17,56
+21.0,Mon,2023-01-23,20:00,Fulham,1.0,0.9,Tottenham,24190.0,Craven Cottage,Paul Tierney,198,0,1,10,3,31,668,19,10,9,15,2,6,32,87,10,8,12,617,23,7,21,31,0,6,16,51
+22.0,Fri,2023-02-03,20:00,Chelsea,1.3,0.6,Fulham,40041.0,Stamford Bridge,Stuart Attwell,199,0,0,16,6,16,836,24,9,13,18,3,6,20,61,12,2,21,487,19,19,12,21,0,8,20,63
+22.0,Sat,2023-02-04,12:30,Everton,1.7,0.9,Arsenal,39314.0,Goodison Park,David Coote,200,1,0,13,7,24,404,18,11,17,22,3,14,17,73,8,5,16,785,14,2,12,18,0,5,23,60
+22.0,Sat,2023-02-04,15:00,Aston Villa,1.7,2.6,Leicester City,42055.0,Villa Park,Darren England,201,2,4,10,11,26,700,9,5,12,9,2,5,13,46,10,3,10,485,23,9,10,34,8,8,18,43
+22.0,Sat,2023-02-04,15:00,Wolves,2.0,1.8,Liverpool,31664.0,Molineux Stadium,Paul Tierney,202,3,0,9,2,5,558,16,4,14,39,1,10,14,76,7,7,32,723,10,10,16,8,2,4,33,62
+22.0,Sat,2023-02-04,15:00,Manchester Utd,2.0,1.3,Crystal Palace,73420.0,Old Trafford,Andre Marriner,203,2,1,9,5,17,648,21,5,11,15,1,3,20,43,9,5,19,577,16,13,8,16,4,6,27,51
+22.0,Sat,2023-02-04,15:00,Brighton,2.2,1.1,Bournemouth,31600.0,The American Express Community Stadium,Craig Pawson,204,1,0,14,7,31,824,17,2,7,5,0,8,15,49,7,3,12,426,20,9,16,22,1,9,19,59
+22.0,Sat,2023-02-04,15:00,Brentford,2.2,0.7,Southampton,17051.0,Brentford Community Stadium,Darren Bond,205,3,0,10,4,17,555,13,7,20,18,1,7,21,87,9,4,18,592,15,18,25,29,2,10,16,74
+22.0,Sat,2023-02-04,17:30,Newcastle Utd,1.0,1.0,West Ham,52256.0,St James' Park,Peter Bankes,206,1,1,11,4,18,697,13,9,20,24,0,7,19,75,13,2,15,479,19,17,15,21,2,8,18,84
+22.0,Sun,2023-02-05,14:00,Nott'ham Forest,0.4,0.9,Leeds United,29363.0,The City Ground,Robert Jones,207,1,0,15,0,8,442,26,15,28,27,2,12,20,87,14,2,17,758,19,2,30,9,3,3,38,79
+22.0,Sun,2023-02-05,16:30,Tottenham,1.4,1.3,Manchester City,61747.0,Tottenham Hotspur Stadium,Andy Madley,208,1,0,19,4,10,439,14,9,9,25,2,11,10,53,14,6,27,699,19,7,16,12,1,6,11,42
+8.0,Wed,2023-02-08,20:00,Manchester Utd,2.0,0.6,Leeds United,73456.0,Old Trafford,Simon Hooper,209,2,2,7,6,30,828,19,8,13,15,1,4,34,64,11,5,6,514,30,16,14,31,0,15,13,57
+23.0,Sat,2023-02-11,12:30,West Ham,1.3,1.1,Chelsea,62471.0,London Stadium,Craig Pawson,210,1,1,9,5,16,400,23,7,15,26,3,6,19,51,11,6,21,799,21,7,18,19,4,6,15,43
+23.0,Sat,2023-02-11,15:00,Leicester City,1.7,1.3,Tottenham,32184.0,King Power Stadium,Michael Salisbury,211,4,1,14,1,5,607,27,12,10,8,2,5,22,60,9,5,13,598,10,9,26,11,2,5,14,47
+23.0,Sat,2023-02-11,15:00,Crystal Palace,1.1,2.5,Brighton,24827.0,Selhurst Park,Michael Oliver,212,1,1,10,1,13,389,19,15,10,24,3,8,15,70,11,6,25,854,23,11,16,17,2,4,17,46
+23.0,Sat,2023-02-11,15:00,Arsenal,1.6,2.0,Brentford,60254.0,Emirates Stadium,Peter Bankes,213,1,1,9,7,36,745,10,4,13,16,1,3,17,44,9,4,14,410,12,6,32,37,1,11,12,74
+23.0,Sat,2023-02-11,15:00,Southampton,1.1,0.8,Wolves,29751.0,St. Mary's Stadium,Jarred Gillett,214,1,2,12,5,22,503,16,10,31,17,0,4,24,74,14,2,11,664,21,6,15,33,3,9,23,79
+23.0,Sat,2023-02-11,15:00,Fulham,1.5,0.7,Nott'ham Forest,24244.0,Craven Cottage,Andy Madley,215,2,0,9,5,29,547,10,15,18,17,1,8,20,61,11,4,16,539,10,10,16,20,3,12,24,67
+23.0,Sat,2023-02-11,17:30,Bournemouth,1.5,1.3,Newcastle Utd,10419.0,Vitality Stadium,Stuart Attwell,216,1,1,8,4,17,455,20,17,17,30,2,7,22,66,10,6,22,739,15,9,16,15,5,8,20,66
+23.0,Sun,2023-02-12,14:00,Leeds United,1.8,1.1,Manchester Utd,36919.0,Elland Road,Paul Tierney,217,0,2,10,7,18,424,23,10,16,15,3,4,20,58,13,3,8,701,30,6,12,19,3,5,19,73
+23.0,Sun,2023-02-12,16:30,Manchester City,3.3,0.3,Aston Villa,53392.0,Etihad Stadium,Robert Jones,218,3,1,13,8,18,727,7,3,7,3,1,2,13,65,14,4,7,409,7,16,4,17,4,7,11,59
+23.0,Mon,2023-02-13,20:00,Liverpool,2.3,0.4,Everton,53027.0,Anfield,Simon Hooper,219,2,0,8,3,19,745,21,7,12,14,4,4,25,62,16,3,12,557,18,14,9,20,2,8,18,62
+12.0,Wed,2023-02-15,19:30,Arsenal,1.6,1.8,Manchester City,60276.0,Emirates Stadium,Anthony Taylor,220,1,3,11,1,17,654,13,8,11,6,0,3,21,62,15,2,9,435,17,11,14,14,3,10,18,65
+24.0,Sat,2023-02-18,12:30,Aston Villa,0.5,3.2,Arsenal,42066.0,Villa Park,Simon Hooper,221,2,4,13,2,9,450,25,13,11,30,0,11,12,57,4,9,30,730,18,0,13,8,2,2,36,49
+24.0,Sat,2023-02-18,15:00,Brighton,2.2,0.3,Fulham,31619.0,The American Express Community Stadium,Darren England,222,0,1,12,10,21,718,10,8,16,3,4,3,13,52,14,2,6,426,13,11,10,20,0,12,9,61
+24.0,Sat,2023-02-18,15:00,Nott'ham Forest,0.9,2.4,Manchester City,29365.0,The City Ground,Graham Scott,223,1,1,8,0,4,385,13,8,13,43,2,15,9,68,6,10,34,817,10,2,10,5,0,4,27,81
+24.0,Sat,2023-02-18,15:00,Chelsea,1.6,0.6,Southampton,40152.0,Stamford Bridge,David Coote,224,0,1,16,8,20,678,17,8,13,5,3,6,30,56,25,2,8,493,31,13,12,29,1,9,16,73
+24.0,Sat,2023-02-18,15:00,Everton,1.4,0.5,Leeds United,39232.0,Goodison Park,Andy Madley,225,1,0,8,6,26,594,23,10,18,18,1,9,32,95,6,4,19,576,24,11,20,20,0,13,22,82
+24.0,Sat,2023-02-18,15:00,Wolves,1.3,1.1,Bournemouth,31222.0,Molineux Stadium,Michael Salisbury,226,0,1,12,12,40,790,16,2,19,14,2,3,18,83,10,2,6,460,9,6,24,49,0,9,22,56
+24.0,Sat,2023-02-18,15:00,Brentford,0.9,1.1,Crystal Palace,17122.0,Brentford Community Stadium,Paul Tierney,227,1,1,10,2,25,687,12,9,24,14,3,2,33,73,8,6,19,517,15,14,15,36,2,11,11,68
+24.0,Sat,2023-02-18,17:30,Newcastle Utd,2.0,1.9,Liverpool,52758.0,St James' Park,Anthony Taylor,228,0,2,3,6,18,499,10,7,11,24,3,6,15,58,8,7,19,744,14,4,5,22,0,7,15,71
+24.0,Sun,2023-02-19,14:00,Manchester Utd,4.4,1.6,Leicester City,73578.0,Old Trafford,Stuart Attwell,229,3,0,9,6,18,744,23,10,16,22,0,1,17,67,9,6,14,607,26,10,7,15,1,5,15,52
+24.0,Sun,2023-02-19,16:30,Tottenham,1.5,0.5,West Ham,61476.0,Tottenham Hotspur Stadium,Michael Oliver,230,2,0,16,4,20,708,19,8,19,31,0,6,14,53,10,7,23,549,18,13,20,17,0,11,18,75
+25.0,Fri,2023-02-24,20:00,Fulham,0.5,0.8,Wolves,24399.0,Craven Cottage,Michael Oliver,231,1,1,12,3,20,616,20,14,11,15,1,9,34,78,17,3,15,589,19,10,19,16,1,8,22,66
+25.0,Sat,2023-02-25,15:00,Leicester City,0.0,0.7,Arsenal,32227.0,King Power Stadium,Craig Pawson,232,0,1,14,0,10,459,12,6,16,21,4,9,20,57,9,8,15,733,11,6,18,11,4,3,17,65
+25.0,Sat,2023-02-25,15:00,Everton,1.6,1.9,Aston Villa,39309.0,Goodison Park,Anthony Taylor,233,0,2,12,5,35,531,20,12,17,15,1,8,23,75,12,1,8,587,16,7,18,29,0,7,22,57
+25.0,Sat,2023-02-25,15:00,West Ham,2.7,0.4,Nott'ham Forest,62469.0,London Stadium,Jarred Gillett,234,4,0,8,12,33,569,13,7,25,16,1,8,15,60,5,3,19,599,15,5,23,27,1,6,20,75
+25.0,Sat,2023-02-25,15:00,Leeds United,0.9,0.4,Southampton,36641.0,Elland Road,Peter Bankes,235,1,0,15,9,26,704,23,8,12,13,2,3,25,49,13,2,10,527,27,11,10,32,3,7,15,45
+25.0,Sat,2023-02-25,17:30,Bournemouth,1.0,2.4,Manchester City,10481.0,Vitality Stadium,Paul Tierney,236,1,4,10,4,16,533,15,10,10,12,1,7,15,50,9,6,16,901,26,6,9,16,2,7,11,30
+25.0,Sat,2023-02-25,19:45,Crystal Palace,0.7,0.9,Liverpool,25842.0,Selhurst Park,Darren England,237,0,0,11,5,23,508,16,6,18,25,4,5,23,70,14,3,14,784,14,5,18,19,1,10,24,58
+25.0,Sun,2023-02-26,13:30,Tottenham,0.8,0.4,Chelsea,61613.0,Tottenham Hotspur Stadium,Stuart Attwell,238,2,0,10,4,13,566,27,10,17,23,0,8,12,55,10,4,16,755,19,12,11,23,2,4,19,49
+7.0,Wed,2023-03-01,19:45,Arsenal,2.6,1.2,Everton,60213.0,Emirates Stadium,Michael Oliver,239,4,0,5,5,15,878,7,7,11,10,4,5,22,60,12,1,6,396,12,12,15,26,2,12,11,67
+7.0,Wed,2023-03-01,20:00,Liverpool,2.6,0.8,Wolves,53259.0,Anfield,Paul Tierney,240,2,0,13,5,17,671,12,12,9,6,1,3,27,54,14,2,8,557,21,11,12,17,3,7,22,59
+26.0,Sat,2023-03-04,12:30,Manchester City,1.3,0.4,Newcastle Utd,53419.0,Etihad Stadium,Simon Hooper,241,2,0,8,8,18,662,13,4,9,24,0,4,17,67,13,4,17,538,11,11,7,19,1,7,17,58
+26.0,Sat,2023-03-04,15:00,Arsenal,2.1,1.3,Bournemouth,60222.0,Emirates Stadium,Chris Kavanagh,242,3,2,6,17,48,891,17,2,19,5,0,1,11,36,8,1,7,383,16,12,15,62,0,15,11,69
+26.0,Sat,2023-03-04,15:00,Aston Villa,1.2,0.2,Crystal Palace,41893.0,Villa Park,Craig Pawson,243,1,0,14,2,6,646,13,7,8,10,0,6,17,43,17,4,15,495,22,9,4,8,5,9,16,61
+26.0,Sat,2023-03-04,15:00,Chelsea,1.5,1.0,Leeds United,39905.0,Stamford Bridge,Michael Oliver,244,1,0,11,5,19,758,26,12,14,15,2,10,14,56,7,7,17,591,23,12,16,14,2,12,17,46
+26.0,Sat,2023-03-04,15:00,Brighton,3.5,0.3,West Ham,31523.0,The American Express Community Stadium,Stuart Attwell,245,4,0,6,7,18,842,20,3,8,7,0,2,18,48,8,3,7,491,11,10,6,22,0,12,18,45
+26.0,Sat,2023-03-04,15:00,Wolves,0.5,1.2,Tottenham,31585.0,Molineux Stadium,Tim Robinson,246,1,0,11,4,10,557,18,4,9,31,3,6,11,64,18,8,25,608,5,6,10,11,1,4,20,62
+26.0,Sat,2023-03-04,17:30,Southampton,1.4,1.9,Leicester City,30139.0,St. Mary's Stadium,Robert Jones,247,1,0,12,3,7,509,21,16,12,20,4,11,20,74,11,4,23,790,22,10,26,10,2,6,28,64
+26.0,Sun,2023-03-05,14:00,Nott'ham Forest,0.8,1.7,Everton,29353.0,The City Ground,John Brooks,248,2,2,11,3,24,665,24,9,21,19,0,5,30,78,17,3,14,539,21,13,30,27,0,3,21,89
+26.0,Sun,2023-03-05,16:30,Liverpool,2.8,0.8,Manchester Utd,53001.0,Anfield,Andy Madley,249,7,0,13,4,20,630,17,9,9,14,0,6,20,70,14,3,18,477,15,9,12,28,4,5,21,57
+26.0,Mon,2023-03-06,20:00,Brentford,2.2,1.4,Fulham,17025.0,Brentford Community Stadium,Anthony Taylor,250,3,2,12,2,21,445,22,11,18,29,3,3,22,60,17,3,31,650,12,13,7,22,1,9,21,58
+27.0,Sat,2023-03-11,12:30,Bournemouth,0.9,1.7,Liverpool,10536.0,Vitality Stadium,John Brooks,251,1,0,7,3,11,450,11,13,17,37,2,8,21,71,9,8,25,804,22,11,14,12,4,6,36,88
+27.0,Sat,2023-03-11,15:00,Leeds United,0.9,2.7,Brighton,36471.0,Elland Road,Paul Tierney,252,2,2,12,4,10,541,14,21,5,28,3,8,6,37,9,7,23,780,24,8,12,9,3,2,16,52
+27.0,Sat,2023-03-11,15:00,Everton,1.0,2.0,Brentford,39274.0,Goodison Park,Simon Hooper,253,1,0,11,5,16,433,25,10,18,28,3,10,10,77,12,8,29,697,11,4,23,13,1,4,29,89
+27.0,Sat,2023-03-11,15:00,Leicester City,2.4,1.6,Chelsea,32170.0,King Power Stadium,Andre Marriner,254,1,3,10,2,12,666,15,15,19,10,0,3,19,32,11,5,11,718,24,9,10,18,4,5,17,60
+27.0,Sat,2023-03-11,15:00,Tottenham,2.0,1.5,Nott'ham Forest,61460.0,Tottenham Hotspur Stadium,Craig Pawson,255,3,1,13,2,23,628,10,8,17,28,1,8,14,55,13,10,20,523,8,7,11,17,1,3,9,54
+27.0,Sat,2023-03-11,17:30,Crystal Palace,0.2,2.1,Manchester City,25844.0,Selhurst Park,Robert Jones,256,0,1,11,2,8,439,11,9,9,24,3,10,18,51,17,6,22,754,14,9,12,12,2,1,21,61
+27.0,Sun,2023-03-12,14:00,Manchester Utd,0.8,1.0,Southampton,73439.0,Old Trafford,Anthony Taylor,257,0,0,12,7,19,555,21,3,11,28,0,7,25,67,9,8,22,619,15,15,6,20,2,4,19,39
+27.0,Sun,2023-03-12,14:00,Fulham,0.8,2.3,Arsenal,24426.0,Craven Cottage,David Coote,258,0,3,10,4,16,570,14,7,16,12,2,3,22,63,9,8,18,668,20,5,11,17,2,6,12,60
+27.0,Sun,2023-03-12,14:00,West Ham,2.1,1.5,Aston Villa,62472.0,London Stadium,Chris Kavanagh,259,1,1,9,12,31,514,18,12,12,22,6,5,13,55,6,2,16,699,12,6,8,26,1,8,16,46
+27.0,Sun,2023-03-12,16:30,Newcastle Utd,1.8,1.1,Wolves,52240.0,St James' Park,Andy Madley,260,2,1,11,10,23,478,13,5,12,23,0,7,25,54,10,3,23,591,20,6,11,26,0,7,14,67
+7.0,Wed,2023-03-15,19:30,Southampton,0.5,1.9,Brentford,30438.0,St. Mary's Stadium,Michael Salisbury,261,0,2,14,3,31,713,16,3,17,13,1,5,22,73,10,3,11,447,20,14,23,26,1,10,17,67
+8.0,Wed,2023-03-15,19:30,Brighton,0.6,1.1,Crystal Palace,30933.0,The American Express Community Stadium,Peter Bankes,262,1,0,13,1,10,720,20,15,10,9,2,4,18,45,20,4,13,579,15,13,3,15,0,8,15,61
+28.0,Fri,2023-03-17,20:00,Nott'ham Forest,0.4,2.4,Newcastle Utd,29362.0,The City Ground,Paul Tierney,263,1,2,17,3,10,434,12,10,13,25,1,10,23,91,9,7,26,590,15,8,24,10,1,7,15,46
+28.0,Sat,2023-03-18,15:00,Wolves,2.7,1.6,Leeds United,31570.0,Molineux Stadium,Michael Salisbury,264,2,4,15,5,24,744,21,9,16,8,2,9,22,58,9,4,15,469,21,9,11,37,0,9,19,56
+28.0,Sat,2023-03-18,15:00,Brentford,0.6,1.3,Leicester City,17006.0,Brentford Community Stadium,Darren Bond,265,1,1,10,8,28,650,22,8,16,14,1,5,23,78,11,4,13,610,12,14,15,32,3,10,19,60
+28.0,Sat,2023-03-18,15:00,Aston Villa,3.5,1.3,Bournemouth,41021.0,Villa Park,Robert Jones,266,3,0,8,9,14,576,16,5,7,9,0,5,18,50,13,6,15,500,20,12,9,17,2,5,13,56
+28.0,Sat,2023-03-18,15:00,Southampton,2.4,2.3,Tottenham,30157.0,St. Mary's Stadium,Simon Hooper,267,3,3,13,10,20,606,13,8,10,19,2,6,17,53,8,3,16,594,19,9,14,21,1,8,11,57
+28.0,Sat,2023-03-18,17:30,Chelsea,2.3,1.2,Everton,40025.0,Stamford Bridge,Darren England,268,2,2,8,8,29,701,15,8,19,9,2,8,20,70,12,2,8,404,20,6,9,32,1,6,24,57
+28.0,Sun,2023-03-19,14:00,Arsenal,1.6,0.8,Crystal Palace,60247.0,Emirates Stadium,Stuart Attwell,269,4,1,8,5,25,738,15,4,18,11,2,3,14,52,10,4,11,513,18,18,11,34,2,7,14,58
+29.0,Sat,2023-04-01,12:30,Manchester City,2.9,0.3,Liverpool,52877.0,Etihad Stadium,Simon Hooper,270,4,1,9,7,15,868,7,4,1,11,3,2,15,54,12,1,8,450,12,9,7,18,5,4,5,48
+29.0,Sat,2023-04-01,15:00,Arsenal,3.8,0.7,Leeds United,60283.0,Emirates Stadium,Darren England,271,4,1,11,4,11,784,15,8,20,17,5,4,14,47,13,3,10,449,21,13,12,14,1,5,20,56
+29.0,Sat,2023-04-01,15:00,Nott'ham Forest,1.3,0.5,Wolves,29368.0,The City Ground,Chris Kavanagh,272,1,1,14,4,14,391,15,6,17,15,2,5,18,53,13,3,22,793,14,6,16,24,0,7,20,69
+29.0,Sat,2023-04-01,15:00,Brighton,4.2,1.6,Brentford,31493.0,The American Express Community Stadium,Michael Oliver,273,3,3,16,14,37,729,9,2,16,5,2,0,17,61,10,0,8,373,16,9,10,38,2,9,6,55
+29.0,Sat,2023-04-01,15:00,Crystal Palace,2.3,0.2,Leicester City,25147.0,Selhurst Park,Tim Robinson,274,2,1,12,10,24,626,12,9,15,13,1,1,27,70,16,1,7,603,24,14,17,32,2,14,11,59
+29.0,Sat,2023-04-01,15:00,Bournemouth,2.6,0.8,Fulham,10305.0,Vitality Stadium,Peter Bankes,275,2,1,15,4,12,490,17,8,12,12,1,9,13,73,13,3,18,638,19,4,11,16,1,6,18,72
+29.0,Sat,2023-04-01,17:30,Chelsea,2.1,0.9,Aston Villa,40082.0,Stamford Bridge,Andy Madley,276,0,2,14,13,39,770,18,9,11,5,2,3,20,68,16,2,4,424,24,8,13,33,0,13,9,41
+29.0,Sun,2023-04-02,14:00,West Ham,1.4,0.3,Southampton,62498.0,London Stadium,Paul Tierney,277,1,0,10,5,19,582,28,13,12,13,1,6,27,84,11,3,14,755,26,14,19,24,1,8,28,51
+29.0,Sun,2023-04-02,16:30,Newcastle Utd,3.7,0.4,Manchester Utd,52268.0,St James' Park,Stuart Attwell,278,2,0,8,7,16,509,22,11,14,9,1,7,26,53,12,4,12,570,18,9,8,25,0,8,19,49
+29.0,Mon,2023-04-03,20:00,Everton,0.9,1.4,Tottenham,39294.0,Goodison Park,David Coote,279,1,1,10,3,23,545,23,8,13,19,1,7,13,70,14,3,15,750,14,5,14,24,3,10,16,78
+7.0,Tue,2023-04-04,19:45,Leeds United,1.8,0.8,Nott'ham Forest,36740.0,Elland Road,Robert Jones,280,2,1,11,11,25,701,15,10,23,22,3,3,21,69,13,4,11,491,18,8,15,33,3,8,25,65
+7.0,Tue,2023-04-04,19:45,Bournemouth,1.7,2.7,Brighton,10266.0,Vitality Stadium,Darren Bond,281,0,2,11,5,18,496,18,15,12,13,1,12,17,45,5,5,11,763,17,7,14,13,0,3,19,55
+7.0,Tue,2023-04-04,19:45,Leicester City,0.5,1.0,Aston Villa,32087.0,King Power Stadium,Graham Scott,282,1,2,10,4,16,407,19,15,6,11,2,7,8,48,14,8,14,659,7,6,10,20,1,7,19,36
+8.0,Tue,2023-04-04,20:00,Chelsea,2.2,0.3,Liverpool,40093.0,Stamford Bridge,Anthony Taylor,283,0,0,6,3,13,693,24,12,8,14,4,2,17,59,17,5,13,686,13,6,10,17,3,9,25,67
+7.0,Wed,2023-04-05,20:00,West Ham,1.0,3.3,Newcastle Utd,62481.0,London Stadium,Craig Pawson,284,1,5,11,7,20,486,13,7,12,16,0,7,14,59,12,6,16,644,24,13,19,18,0,7,15,71
+25.0,Wed,2023-04-05,20:00,Manchester Utd,1.2,0.7,Brentford,73309.0,Old Trafford,John Brooks,285,1,0,9,12,18,742,15,8,23,14,2,5,12,75,13,3,15,474,18,10,17,27,1,11,11,63
+30.0,Sat,2023-04-08,12:30,Manchester Utd,3.4,1.0,Everton,73509.0,Old Trafford,Michael Oliver,286,2,0,10,10,9,774,10,7,14,23,3,2,20,64,9,4,18,480,30,6,14,14,2,10,17,72
+30.0,Sat,2023-04-08,15:00,Fulham,0.7,1.1,West Ham,24491.0,Craven Cottage,Jarred Gillett,287,0,1,10,11,47,847,17,5,15,27,0,7,24,60,12,4,17,392,17,16,24,66,2,5,16,54
+30.0,Sat,2023-04-08,15:00,Aston Villa,1.3,0.2,Nott'ham Forest,42076.0,Villa Park,Anthony Taylor,288,2,0,7,1,10,585,12,4,11,22,1,2,20,41,17,8,18,354,17,5,14,12,7,14,26,57
+30.0,Sat,2023-04-08,15:00,Leicester City,0.7,2.0,Bournemouth,32094.0,King Power Stadium,David Coote,289,0,1,10,6,22,588,19,4,18,26,3,8,27,59,13,6,16,598,8,11,20,26,2,9,24,79
+30.0,Sat,2023-04-08,15:00,Brentford,2.6,1.3,Newcastle Utd,17107.0,Brentford Community Stadium,Chris Kavanagh,290,1,2,10,6,25,430,16,7,24,15,2,6,19,69,15,5,14,558,19,7,21,27,2,6,12,70
+30.0,Sat,2023-04-08,15:00,Wolves,0.6,1.1,Chelsea,31614.0,Molineux Stadium,Peter Bankes,291,1,0,14,8,26,497,22,10,9,31,2,4,16,53,10,8,32,721,27,3,16,29,1,6,23,44
+30.0,Sat,2023-04-08,15:00,Tottenham,0.8,1.4,Brighton,61405.0,Tottenham Hotspur Stadium,Stuart Attwell,292,2,1,15,3,15,453,17,7,9,25,2,8,10,61,15,7,22,693,18,4,18,12,1,2,14,55
+30.0,Sat,2023-04-08,17:30,Southampton,0.4,2.9,Manchester City,30963.0,St. Mary's Stadium,Robert Jones,293,1,4,6,0,8,399,11,8,7,24,0,3,10,53,10,10,21,833,9,6,13,4,2,5,18,59
+30.0,Sun,2023-04-09,14:00,Leeds United,0.9,3.0,Crystal Palace,36427.0,Elland Road,Simon Hooper,294,1,5,11,2,18,593,34,13,16,22,2,3,24,55,8,4,14,621,22,8,23,19,2,4,28,75
+30.0,Sun,2023-04-09,16:30,Liverpool,3.9,1.4,Arsenal,53267.0,Anfield,Paul Tierney,295,2,2,11,5,24,686,22,11,14,12,2,6,13,73,11,4,11,542,21,10,13,29,2,10,12,72
+31.0,Sat,2023-04-15,12:30,Aston Villa,1.9,0.5,Newcastle Utd,42055.0,Villa Park,John Brooks,296,3,0,13,7,14,553,18,6,8,14,1,5,23,76,15,2,15,511,18,7,11,12,4,5,18,51
+31.0,Sat,2023-04-15,15:00,Chelsea,0.5,2.9,Brighton,40126.0,Stamford Bridge,Robert Jones,297,1,2,11,2,13,557,18,13,9,18,1,10,14,51,11,8,14,701,24,6,8,10,1,4,17,45
+31.0,Sat,2023-04-15,15:00,Southampton,0.8,0.9,Crystal Palace,30309.0,St. Mary's Stadium,Michael Oliver,298,0,2,6,6,14,638,15,16,20,7,3,8,17,51,13,2,7,499,22,8,14,19,1,5,14,65
+31.0,Sat,2023-04-15,15:00,Wolves,0.8,1.1,Brentford,30769.0,Molineux Stadium,Paul Tierney,299,2,0,12,5,16,595,21,4,11,22,0,5,16,90,8,2,16,594,23,13,20,13,1,2,26,67
+31.0,Sat,2023-04-15,15:00,Tottenham,2.2,1.3,Bournemouth,61369.0,Tottenham Hotspur Stadium,Andy Madley,300,2,3,8,8,37,643,17,11,21,7,1,3,19,62,9,1,5,542,17,18,10,37,1,15,11,58
+31.0,Sat,2023-04-15,15:00,Everton,1.4,1.8,Fulham,39241.0,Goodison Park,Anthony Taylor,301,1,3,10,4,21,554,14,7,21,15,1,8,17,68,6,7,23,627,17,13,21,22,0,7,22,97
+31.0,Sat,2023-04-15,17:30,Manchester City,1.6,2.3,Leicester City,53329.0,Etihad Stadium,Darren England,302,3,1,8,6,23,868,11,1,7,9,0,5,18,75,8,2,6,431,10,6,15,26,3,6,15,57
+31.0,Sun,2023-04-16,14:00,West Ham,1.8,2.7,Arsenal,62481.0,London Stadium,David Coote,303,2,2,11,7,20,381,17,15,23,14,4,5,26,66,8,2,17,742,13,3,19,25,1,9,20,60
+31.0,Sun,2023-04-16,16:30,Nott'ham Forest,0.7,3.5,Manchester Utd,29435.0,The City Ground,Simon Hooper,304,0,2,9,4,12,444,20,11,13,27,1,11,19,76,9,9,19,767,12,12,15,16,3,8,25,63
+31.0,Mon,2023-04-17,20:00,Leeds United,1.4,2.7,Liverpool,36657.0,Elland Road,Craig Pawson,305,1,6,6,4,14,437,13,11,10,18,1,6,16,55,12,2,10,1003,21,8,9,17,2,4,22,60
+32.0,Fri,2023-04-21,20:00,Arsenal,2.5,1.3,Southampton,60175.0,Emirates Stadium,Simon Hooper,306,3,3,10,7,30,821,17,4,15,4,1,3,25,59,14,2,6,405,22,15,11,44,2,18,11,73
+32.0,Sat,2023-04-22,12:30,Fulham,1.7,0.8,Leeds United,24356.0,Craven Cottage,Peter Bankes,307,2,1,10,8,24,570,19,9,16,23,5,3,23,78,15,6,19,556,24,14,22,29,2,3,12,60
+32.0,Sat,2023-04-22,15:00,Crystal Palace,0.5,0.4,Everton,25202.0,Selhurst Park,John Brooks,308,0,0,12,8,27,590,15,5,26,21,1,7,27,99,14,1,14,497,14,12,35,26,3,8,25,81
+32.0,Sat,2023-04-22,15:00,Brentford,2.7,1.5,Aston Villa,17098.0,Brentford Community Stadium,Michael Salisbury,309,1,1,12,8,20,444,16,11,18,18,6,8,19,82,8,4,17,559,9,5,12,25,3,6,8,59
+32.0,Sat,2023-04-22,15:00,Liverpool,2.8,0.9,Nott'ham Forest,53254.0,Anfield,Michael Oliver,310,3,2,9,9,28,824,14,5,19,11,2,7,28,72,12,3,11,299,15,12,14,29,3,10,18,71
+32.0,Sat,2023-04-22,15:00,Leicester City,2.4,0.9,Wolves,32053.0,King Power Stadium,Andy Madley,311,2,1,17,1,12,508,22,8,21,25,1,13,18,60,16,7,20,653,12,7,17,11,3,5,22,66
+32.0,Sun,2023-04-23,14:00,Bournemouth,1.5,2.4,West Ham,10465.0,Vitality Stadium,Anthony Taylor,312,0,4,7,8,32,813,11,9,15,13,0,4,24,59,8,5,13,517,17,14,16,31,3,9,13,65
+32.0,Sun,2023-04-23,14:00,Newcastle Utd,3.7,1.0,Tottenham,52252.0,St James' Park,David Coote,313,6,1,7,9,20,662,13,6,10,10,2,8,12,61,13,3,8,540,17,7,4,17,0,5,22,69
+33.0,Tue,2023-04-25,19:30,Wolves,1.4,0.8,Crystal Palace,30294.0,Molineux Stadium,Robert Jones,314,2,0,13,6,13,478,21,8,19,30,2,5,12,73,14,11,28,612,11,6,15,15,1,5,30,53
+33.0,Tue,2023-04-25,19:45,Aston Villa,1.0,0.1,Fulham,41046.0,Villa Park,Thomas Bramall,315,1,0,6,8,15,571,11,2,15,23,0,5,15,62,18,2,17,543,21,6,8,15,5,4,18,54
+33.0,Tue,2023-04-25,20:00,Leeds United,1.5,2.1,Leicester City,36666.0,Elland Road,Paul Tierney,316,1,1,14,3,16,497,22,11,16,29,4,5,23,72,15,6,20,609,21,5,18,15,6,6,29,57
+33.0,Wed,2023-04-26,19:30,Nott'ham Forest,2.4,2.3,Brighton,28808.0,The City Ground,Jarred Gillett,317,3,1,7,2,7,384,18,14,9,20,1,10,17,53,8,7,13,856,14,7,10,16,2,6,18,45
+33.0,Wed,2023-04-26,19:45,Chelsea,1.3,1.1,Brentford,39929.0,Stamford Bridge,Andy Madley,318,0,2,5,5,28,845,12,9,19,19,0,3,21,52,13,2,7,409,13,9,15,26,2,11,28,72
+33.0,Wed,2023-04-26,19:45,West Ham,0.8,1.9,Liverpool,62473.0,London Stadium,Chris Kavanagh,319,1,2,6,3,15,452,13,18,16,13,1,5,18,74,8,6,13,1000,20,18,28,18,1,8,15,78
+33.0,Wed,2023-04-26,20:00,Manchester City,2.5,0.5,Arsenal,53482.0,Etihad Stadium,Michael Oliver,320,4,1,13,1,5,590,11,9,15,8,0,5,13,58,13,3,8,549,10,5,12,13,1,5,13,50
+33.0,Thu,2023-04-27,19:45,Everton,0.9,2.4,Newcastle Utd,39248.0,Goodison Park,Andre Marriner,321,1,4,8,2,17,470,18,17,11,26,3,8,17,74,6,14,21,636,14,9,9,17,1,11,29,81
+33.0,Thu,2023-04-27,19:45,Southampton,0.5,0.9,Bournemouth,30414.0,St. Mary's Stadium,Darren England,322,0,1,9,6,24,678,19,13,10,20,4,8,25,70,11,4,15,566,21,6,12,35,2,6,19,67
+33.0,Thu,2023-04-27,20:15,Tottenham,2.5,2.0,Manchester Utd,61586.0,Tottenham Hotspur Stadium,Anthony Taylor,323,2,2,8,6,23,552,19,13,12,26,2,5,12,50,7,8,19,755,16,14,11,21,3,4,17,77
+34.0,Sat,2023-04-29,12:30,Crystal Palace,2.1,1.7,West Ham,25148.0,Selhurst Park,Craig Pawson,324,4,3,9,8,20,664,21,5,31,30,1,3,18,83,17,5,14,508,23,11,23,23,1,10,29,81
+34.0,Sat,2023-04-29,15:00,Brighton,3.3,0.8,Wolves,31584.0,The American Express Community Stadium,David Coote,325,6,0,14,2,7,646,15,9,9,14,2,4,10,34,11,5,15,508,16,10,1,13,0,9,14,53
+34.0,Sat,2023-04-29,15:00,Brentford,1.6,0.7,Nott'ham Forest,17080.0,Brentford Community Stadium,Peter Bankes,326,2,1,6,6,32,699,9,6,22,6,1,4,24,65,13,0,6,400,21,7,23,44,1,7,24,74
+34.0,Sun,2023-04-30,14:00,Manchester Utd,1.2,0.6,Aston Villa,73592.0,Old Trafford,Jarred Gillett,327,1,0,16,1,6,650,14,12,6,15,7,2,28,81,7,4,9,516,15,2,6,18,3,7,21,68
+34.0,Sun,2023-04-30,14:00,Bournemouth,1.9,1.6,Leeds United,10434.0,Vitality Stadium,Chris Kavanagh,328,4,1,12,2,8,543,24,6,12,22,2,9,21,79,14,5,19,675,19,6,23,15,1,3,28,68
+34.0,Sun,2023-04-30,14:00,Newcastle Utd,4.3,0.8,Southampton,52234.0,St James' Park,Anthony Taylor,329,3,1,7,11,33,676,17,9,20,8,1,2,23,77,10,2,5,485,23,8,7,37,2,14,21,62
+34.0,Sun,2023-04-30,14:00,Fulham,0.2,2.5,Manchester City,24498.0,Craven Cottage,Simon Hooper,330,1,2,9,2,12,512,22,9,15,32,3,1,15,48,10,5,11,784,14,5,16,15,1,3,23,84
+34.0,Sun,2023-04-30,16:30,Liverpool,2.2,2.0,Tottenham,53275.0,Anfield,Paul Tierney,331,4,3,12,4,15,864,16,1,20,7,0,3,21,88,6,2,10,487,24,8,7,18,5,7,16,66
+34.0,Mon,2023-05-01,20:00,Leicester City,3.4,3.1,Everton,32173.0,King Power Stadium,Michael Oliver,332,2,2,10,2,11,622,19,6,30,37,6,11,19,78,12,9,38,542,15,11,33,19,3,5,31,85
+34.0,Tue,2023-05-02,20:00,Arsenal,1.7,0.8,Chelsea,60144.0,Emirates Stadium,Robert Jones,333,3,1,10,7,18,680,12,7,12,12,1,5,10,48,10,2,11,583,15,7,18,25,0,7,10,49
+28.0,Wed,2023-05-03,20:00,Liverpool,1.8,0.9,Fulham,52602.0,Anfield,Stuart Attwell,334,1,0,10,7,20,762,14,6,14,20,3,3,21,73,8,5,18,612,15,11,7,34,2,10,14,60
+28.0,Wed,2023-05-03,20:00,Manchester City,2.3,0.4,West Ham,53305.0,Etihad Stadium,John Brooks,335,3,0,8,6,25,853,16,5,10,12,1,2,16,47,8,3,11,456,12,11,14,28,0,12,12,50
+28.0,Thu,2023-05-04,20:00,Brighton,2.3,1.4,Manchester Utd,31577.0,The American Express Community Stadium,Andre Marriner,336,1,0,10,8,14,705,15,10,12,5,0,7,8,63,14,6,6,524,20,6,7,13,2,6,12,54
+35.0,Sat,2023-05-06,15:00,Tottenham,0.9,0.4,Crystal Palace,61093.0,Tottenham Hotspur Stadium,Darren England,337,1,0,15,8,19,647,13,14,19,22,1,7,12,68,14,4,17,508,15,12,10,18,0,3,27,63
+35.0,Sat,2023-05-06,15:00,Wolves,0.8,1.5,Aston Villa,31641.0,Molineux Stadium,Stuart Attwell,338,1,0,20,5,13,393,13,9,9,23,3,9,14,60,9,6,22,571,10,8,19,13,2,2,19,41
+35.0,Sat,2023-05-06,15:00,Bournemouth,1.2,1.3,Chelsea,10357.0,Vitality Stadium,John Brooks,339,1,3,9,7,14,454,16,8,11,27,1,9,24,48,11,7,22,756,12,9,11,9,0,6,20,50
+35.0,Sat,2023-05-06,15:00,Manchester City,2.6,0.2,Leeds United,53406.0,Etihad Stadium,Andy Madley,340,2,1,3,10,22,994,7,5,13,8,4,4,12,46,16,1,7,316,10,4,12,28,3,15,10,60
+35.0,Sat,2023-05-06,17:30,Liverpool,2.2,0.2,Brentford,52838.0,Anfield,Anthony Taylor,341,1,0,19,7,19,520,9,4,14,27,1,5,19,71,10,3,18,445,11,8,14,19,2,6,14,82
+35.0,Sun,2023-05-07,16:30,Newcastle Utd,1.3,1.3,Arsenal,50267.0,St James' Park,Chris Kavanagh,342,0,2,16,9,21,558,18,8,17,10,0,6,26,54,12,4,5,511,23,8,12,24,1,6,17,50
+35.0,Sun,2023-05-07,19:00,West Ham,1.3,1.2,Manchester Utd,62477.0,London Stadium,Peter Bankes,343,1,0,4,5,20,483,17,10,17,19,1,11,10,60,9,7,9,836,14,10,15,19,1,5,17,56
+35.0,Mon,2023-05-08,15:00,Fulham,1.6,2.8,Leicester City,24442.0,Craven Cottage,Robert Jones,344,5,3,13,2,10,672,22,6,16,15,1,6,20,63,15,7,14,535,14,13,9,5,4,7,17,65
+35.0,Mon,2023-05-08,17:30,Brighton,3.2,2.3,Everton,31567.0,The American Express Community Stadium,Simon Hooper,345,1,5,11,15,44,916,11,6,16,6,1,2,24,53,13,1,6,398,19,16,19,56,1,12,6,59
+35.0,Mon,2023-05-08,20:00,Nott'ham Forest,1.8,3.1,Southampton,29154.0,The City Ground,Michael Oliver,346,4,3,16,2,7,438,20,12,12,22,3,12,14,59,10,11,25,688,6,9,8,13,1,5,19,63
+36.0,Sat,2023-05-13,12:30,Leeds United,2.1,2.4,Newcastle Utd,36955.0,Elland Road,Simon Hooper,347,2,2,16,2,10,419,23,15,11,24,0,13,14,74,14,6,16,625,21,13,18,20,2,6,23,51
+36.0,Sat,2023-05-13,15:00,Aston Villa,1.2,1.4,Tottenham,42164.0,Villa Park,Peter Bankes,348,2,1,9,8,18,544,11,11,6,17,2,2,8,43,14,3,14,566,16,12,8,14,9,8,14,53
+36.0,Sat,2023-05-13,15:00,Chelsea,1.2,1.3,Nott'ham Forest,40030.0,Stamford Bridge,Paul Tierney,349,2,2,13,2,17,866,14,3,16,16,1,7,27,53,15,5,11,369,28,17,12,26,2,5,18,68
+36.0,Sat,2023-05-13,15:00,Crystal Palace,1.5,0.3,Bournemouth,25034.0,Selhurst Park,Michael Salisbury,350,2,0,5,11,24,742,22,9,11,9,2,3,16,60,12,2,5,566,20,11,15,31,1,12,18,55
+36.0,Sat,2023-05-13,15:00,Southampton,0.4,1.4,Fulham,28978.0,St. Mary's Stadium,Thomas Bramall,351,0,2,17,1,9,475,16,9,14,26,4,4,19,40,12,8,20,737,10,10,8,8,1,4,18,54
+36.0,Sat,2023-05-13,15:00,Manchester Utd,3.2,0.3,Wolves,73570.0,Old Trafford,John Brooks,352,2,0,9,11,15,593,13,8,16,25,0,5,19,55,9,7,22,620,8,7,14,16,1,13,21,79
+36.0,Sun,2023-05-14,14:00,Everton,1.6,0.8,Manchester City,39376.0,Goodison Park,Anthony Taylor,353,0,3,12,8,20,498,16,11,8,17,1,9,13,57,4,6,17,781,7,5,8,21,0,5,13,69
+36.0,Sun,2023-05-14,14:00,Brentford,3.4,0.2,West Ham,17075.0,Brentford Community Stadium,Michael Oliver,354,2,0,5,7,22,667,20,5,18,17,3,4,21,75,5,5,18,598,11,8,19,26,3,9,18,57
+36.0,Sun,2023-05-14,16:30,Arsenal,0.9,1.7,Brighton,60139.0,Emirates Stadium,Andy Madley,355,0,3,13,5,11,483,20,7,7,6,1,4,11,48,17,2,5,658,15,8,11,13,4,7,15,54
+36.0,Mon,2023-05-15,20:00,Leicester City,0.4,2.2,Liverpool,32225.0,King Power Stadium,Craig Pawson,356,0,3,11,4,8,509,36,14,12,19,3,5,26,73,17,4,13,831,18,6,11,10,4,1,26,67
+25.0,Thu,2023-05-18,19:30,Newcastle Utd,3.6,0.5,Brighton,52122.0,St James' Park,Robert Jones,357,4,1,17,6,13,400,11,9,15,9,1,4,25,71,16,1,5,656,14,2,7,16,2,6,20,48
+37.0,Sat,2023-05-20,12:30,Tottenham,1.8,1.3,Brentford,61514.0,Tottenham Hotspur Stadium,Jarred Gillett,358,1,3,11,8,28,730,12,1,26,14,1,7,23,54,9,2,11,513,11,4,18,23,1,8,19,65
+37.0,Sat,2023-05-20,15:00,Liverpool,0.7,1.3,Aston Villa,53306.0,Anfield,John Brooks,359,1,1,16,9,41,693,18,8,13,22,4,2,22,76,13,3,11,442,29,15,7,44,1,8,18,81
+37.0,Sat,2023-05-20,15:00,Fulham,1.7,1.6,Crystal Palace,24356.0,Craven Cottage,Joshua Smith,360,2,2,13,7,23,511,16,9,13,23,2,7,20,63,12,4,15,530,12,9,12,18,2,12,21,62
+37.0,Sat,2023-05-20,15:00,Bournemouth,1.0,1.4,Manchester Utd,10240.0,Vitality Stadium,Chris Kavanagh,361,0,1,6,3,13,612,12,18,7,22,0,9,11,56,7,6,13,804,26,5,13,15,2,2,24,63
+37.0,Sat,2023-05-20,15:00,Wolves,1.6,2.0,Everton,31684.0,Molineux Stadium,David Coote,362,1,1,18,1,9,598,12,5,15,29,1,10,10,57,10,7,28,536,19,12,25,5,0,8,23,87
+37.0,Sat,2023-05-20,17:30,Nott'ham Forest,0.6,0.6,Arsenal,29514.0,The City Ground,Anthony Taylor,363,1,0,11,3,7,297,18,12,9,24,1,6,14,73,12,6,19,852,8,6,26,14,1,2,11,37
+37.0,Sun,2023-05-21,13:30,West Ham,2.1,0.9,Leeds United,62478.0,London Stadium,Peter Bankes,364,3,1,6,9,21,692,11,11,34,22,1,8,24,67,11,5,29,528,23,6,12,20,1,3,17,85
+37.0,Sun,2023-05-21,14:00,Brighton,2.5,0.6,Southampton,31507.0,The American Express Community Stadium,Paul Tierney,365,3,1,8,4,20,764,13,5,11,8,1,3,17,31,9,3,8,499,16,14,3,19,1,11,15,58
+37.0,Sun,2023-05-21,16:00,Manchester City,1.2,1.2,Chelsea,53490.0,Etihad Stadium,Michael Oliver,366,1,0,12,5,12,801,8,4,4,12,2,5,16,46,9,2,10,497,17,6,5,14,2,8,10,47
+37.0,Mon,2023-05-22,20:00,Newcastle Utd,2.1,0.1,Leicester City,52152.0,St James' Park,Andre Marriner,367,0,0,9,12,33,850,6,4,19,10,1,1,19,63,5,1,5,344,17,5,13,50,0,18,11,68
+32.0,Wed,2023-05-24,20:00,Brighton,2.2,1.8,Manchester City,31388.0,The American Express Community Stadium,Simon Hooper,368,1,1,16,5,18,516,12,11,9,6,2,1,6,47,11,1,10,714,12,3,12,12,0,5,11,46
+32.0,Thu,2023-05-25,20:00,Manchester Utd,5.2,1.9,Chelsea,73561.0,Old Trafford,Stuart Attwell,369,4,1,12,3,4,575,19,4,4,11,0,10,18,41,6,4,14,776,21,6,8,8,0,4,10,41
+38.0,Sun,2023-05-28,16:30,Crystal Palace,1.4,0.5,Nott'ham Forest,25198.0,Selhurst Park,Thomas Bramall,370,1,1,9,5,20,677,15,2,14,13,2,4,21,55,13,4,8,401,19,6,10,23,2,10,12,77
+38.0,Sun,2023-05-28,16:30,Chelsea,2.2,1.7,Newcastle Utd,40130.0,Stamford Bridge,Jarred Gillett,371,1,1,9,10,27,742,21,7,6,10,2,5,15,49,11,3,11,497,14,8,5,32,1,9,16,36
+38.0,Sun,2023-05-28,16:30,Manchester Utd,2.9,1.8,Fulham,73465.0,Old Trafford,Robert Jones,372,2,1,14,5,12,619,19,14,13,11,1,6,8,39,10,4,16,574,15,11,15,18,1,7,13,58
+38.0,Sun,2023-05-28,16:30,Arsenal,2.8,0.5,Wolves,60095.0,Emirates Stadium,Andre Marriner,373,5,0,8,8,14,573,17,2,11,15,1,1,11,44,11,4,15,553,9,2,12,23,0,5,14,50
+38.0,Sun,2023-05-28,16:30,Southampton,1.8,4.0,Liverpool,31129.0,St. Mary's Stadium,Darren England,374,4,4,4,2,7,465,21,17,11,35,0,10,16,46,10,9,27,771,20,13,12,2,0,2,24,71
+38.0,Sun,2023-05-28,16:30,Everton,1.0,0.5,Bournemouth,39201.0,Goodison Park,Stuart Attwell,375,1,0,11,9,30,469,18,13,21,24,0,6,22,81,12,3,15,700,12,6,18,29,1,9,20,74
+38.0,Sun,2023-05-28,16:30,Leicester City,1.4,1.4,West Ham,32183.0,King Power Stadium,Simon Hooper,376,2,1,8,3,11,676,11,7,11,19,2,9,17,49,10,5,27,697,17,3,5,18,3,9,11,49
+38.0,Sun,2023-05-28,16:30,Aston Villa,2.8,1.4,Brighton,,Villa Park,David Coote,377,2,1,15,3,13,413,14,12,12,7,0,3,19,58,16,3,7,549,13,3,11,15,6,6,12,31
+38.0,Sun,2023-05-28,16:30,Leeds United,1.5,2.2,Tottenham,36871.0,Elland Road,Anthony Taylor,378,1,4,8,12,44,636,22,9,30,8,1,1,24,78,5,3,6,636,26,12,25,47,1,12,19,64
+38.0,Sun,2023-05-28,16:30,Brentford,1.3,1.6,Manchester City,17120.0,Brentford Community Stadium,John Brooks,379,1,0,12,3,15,451,17,10,12,18,3,5,10,61,8,4,8,752,14,7,12,16,0,3,16,47
